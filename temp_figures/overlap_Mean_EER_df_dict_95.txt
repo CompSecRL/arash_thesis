@@ -1,0 +1,10 @@
+  window_size step_width scaler_clip  Mean_EER
+0         125          1        True  0.294354
+0         250          2        True  0.206687
+0         500          5        True  0.150381
+0         750          7        True  0.139513
+0        1000         10        True  0.142984
+0        1250         12        True  0.155225
+0        1500         15        True  0.163635
+0        1750         17        True  0.168206
+0        2000         20        True  0.176493
