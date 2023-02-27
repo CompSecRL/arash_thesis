@@ -1,0 +1,1 @@
+{"dense_layers": [{"best_val_loss": {"param": 8, "value": 0.07856214046478271}, "best_roc_val": {"param": 8, "value": 0.9534630942197238}, "best_eer_val": {"param": 8, "value": 0.10165383518576471}, "best_thres": {"param": 16, "value": -0.4917740225791927}, "best_acc_val": {"param": 8, "value": 0.8983873269587556}, "best_f1_val": {"param": 8, "value": 0.8982857142857142}}]}
