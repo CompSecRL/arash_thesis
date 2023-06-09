@@ -1,0 +1,45 @@
+
+----------------------------------------2023/05/28-22:15:09----------------------------------------
+
+----------------------------------------final_experiments_results/WACA-OCSVM/overlap_Mean_EER_df_train_dict.txt----------------------------------------
+
+----------------------
+\overlap: 0.01
+  window_size step_width  Mean_EER median_nu median_gamma
+0        1750       1732  0.084649  0.034759     0.039069
+0        2000       1980  0.087342  0.021507     0.068665
+----------------------
+\overlap: 0.02
+  window_size step_width  Mean_EER median_nu median_gamma
+0        1750       1715   0.09068  0.037817      0.02223
+0        2000       1960  0.099158  0.022527     0.053867
+----------------------
+\overlap: 0.03
+  window_size step_width  Mean_EER median_nu median_gamma
+0        1750       1697  0.088465  0.037817     0.053867
+0        2000       1940  0.096526  0.024565     0.068665
+----------------------
+\overlap: 0.04
+  window_size step_width  Mean_EER median_nu median_gamma
+0        1750       1680  0.095746  0.034759     0.039069
+0        2000       1920  0.093526  0.026604     0.053867
+----------------------
+\overlap: 0.05
+  window_size step_width  Mean_EER median_nu median_gamma
+0        1750       1662  0.098531  0.024565     0.039069
+0        2000       1900  0.089139   0.03272     0.039069
+----------------------
+\overlap: 0.06
+  window_size step_width  Mean_EER median_nu median_gamma
+0        1750       1645  0.094803  0.034759     0.039069
+0        2000       1880  0.098206   0.03374     0.068665
+----------------------
+\overlap: 0.07
+  window_size step_width  Mean_EER median_nu median_gamma
+0        1750       1627  0.095921  0.027623     0.120679
+0        2000       1859  0.086651   0.03272     0.068665
+----------------------
+\overlap: 0.08
+  window_size step_width  Mean_EER median_nu median_gamma
+0        1750       1610  0.086053  0.024565     0.068665
+0        2000       1840  0.084139  0.028643     0.053867

@@ -1,0 +1,18 @@
+
+----------------------------------------2023/05/30-20:50:47----------------------------------------
+
+----------------------------------------final_experiments_results/WACA-IF/Butterworth_Mean_EER_Naive_df_train_dict.txt----------------------------------------
+
+----------------------
+\cut_off_freq: 48
+  window_size step_width  Mean_EER median_n_estimators median_max_samples median_contamination median_max_features
+0        2000       1000  0.127921                 150                0.5                 0.01                 0.5
+----------------------
+\cut_off_freq: 49
+  window_size step_width  Mean_EER median_n_estimators median_max_samples median_contamination median_max_features
+0        2000       1000  0.128118                 150                0.5                 0.01                 0.5
+----------------------
+
+Sorting based on Mean EER among windows
+1) (48, 0.1279210526315789)
+2) (49, 0.1281184210526316)

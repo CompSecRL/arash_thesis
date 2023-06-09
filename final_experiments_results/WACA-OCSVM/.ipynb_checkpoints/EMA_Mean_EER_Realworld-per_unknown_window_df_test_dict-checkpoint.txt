@@ -1,0 +1,14 @@
+
+----------------------------------------2023/05/28-21:59:26----------------------------------------
+
+----------------------------------------final_experiments_results/WACA-OCSVM/EMA_Mean_EER_Realworld-per_unknown_window_df_test_dict.txt----------------------------------------
+
+----------------------
+\cut_off_freq: 48
+  window_size step_width  Mean_EER median_nu median_gamma
+0        1750        875  0.080434  0.046992     0.007197
+0        2000       1000  0.097184  0.055147     0.000429
+----------------------
+
+Sorting based on Mean EER among windows
+1) (48, 0.08880921052631574)

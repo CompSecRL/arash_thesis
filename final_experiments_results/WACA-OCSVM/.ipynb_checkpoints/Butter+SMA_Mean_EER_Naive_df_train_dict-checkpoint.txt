@@ -1,0 +1,20 @@
+
+----------------------------------------2023/05/28-22:08:02----------------------------------------
+
+----------------------------------------final_experiments_results/WACA-OCSVM/Butter+SMA_Mean_EER_Naive_df_train_dict.txt----------------------------------------
+
+----------------------
+\cut_off_freq, winsize: (38, 4)
+  window_size step_width  Mean_EER median_nu median_gamma
+0        1750        875  0.081716  0.036798     0.025859
+0        2000       1000  0.074329  0.034759     0.068665
+----------------------
+\cut_off_freq, winsize: (29, 13)
+  window_size step_width  Mean_EER median_nu median_gamma
+0        1750        875  0.062094  0.038837     0.039069
+0        2000       1000  0.065329  0.035779      0.03065
+----------------------
+
+Sorting based on Mean EER among windows
+1) ((29, 13), 0.06371138443935932)
+2) ((38, 4), 0.07802259725400458)

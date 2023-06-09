@@ -1,0 +1,20 @@
+
+----------------------------------------2023/06/02-05:26:47----------------------------------------
+
+----------------------------------------final_experiments_results/SCNN-kNN/Butterworth_Mean_EER_Naive_df_train_dict.txt----------------------------------------
+
+----------------------
+\cut_off_freq: 48
+  window_size step_width  Mean_EER best_n_neighbors
+0        1750        875  0.244893                1
+0        2000       1000  0.243135                1
+----------------------
+\cut_off_freq: 49
+  window_size step_width  Mean_EER best_n_neighbors
+0        1750        875  0.236135                1
+0        2000       1000  0.233784                1
+----------------------
+
+Sorting based on Mean EER among windows
+1) (49, 0.23495908896485773)
+2) (48, 0.24401425365945367)
