@@ -1,0 +1,10 @@
+
+----------------------------------------2023/06/16-03:07:52----------------------------------------
+
+----------------------------------------final_experiments_results/WACA-LOF/None_Mean_EER_None_df_test_dict.txt----------------------------------------
+
+----------------------
+\Top smoothing parameter/s: No_Smoothing
+  window_size step_width  Mean_EER median_n_neighbors median_contamination
+0        1750        875  0.133816                 11             0.046992
+0        2000       1000     0.135                 10             0.044953
