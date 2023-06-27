@@ -1,0 +1,14 @@
+
+----------------------------------------2023/06/02-05:26:47----------------------------------------
+
+----------------------------------------final_experiments_results/SCNN-kNN/Butterworth_Mean_EER_Naive_df_test_dict.txt----------------------------------------
+
+----------------------
+\Top smoothing parameter/s: 49
+  window_size step_width  Mean_EER best_n_neighbors
+0        1750        875  0.267581                1
+0        2000       1000  0.259118                1
+----------------------
+
+Sorting based on Mean EER among windows
+1) (49, 0.26334968117350754)

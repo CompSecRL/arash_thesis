@@ -1,0 +1,18 @@
+
+----------------------------------------2023/05/07-21:58:07----------------------------------------
+
+----------------------------------------final_experiments_results/WACA-kNN/Butterworth_Mean_EER_Naive_df_test_dict.txt----------------------------------------
+
+----------------------
+\cut_off_freq: 48
+  window_size step_width  Mean_EER best_n_neighbors
+0        2000       1000  0.158439               19
+----------------------
+\cut_off_freq: 49
+  window_size step_width  Mean_EER best_n_neighbors
+0        2000       1000  0.150231               19
+----------------------
+
+Sorting based on Mean EER among windows
+1) (49, 0.15023088023088738)
+2) (48, 0.15843915343924678)
