@@ -1,0 +1,34 @@
+
+----------------------------------------2023/07/20-07:22:00----------------------------------------
+
+----------------------------------------clip=False_experiments_results/WACA-OCSVM/tmp_train.txt----------------------------------------
+
+----------------------
+
+test_dict_key: -99999
+  window_size step_width  Mean_EER median_nu median_gamma
+0        2000       1000  0.042092  0.006216     0.000337
+----------------------
+
+Sorting based on Mean EER among windows
+1) (-99999, 0.042092105263157945)
+
+----------------------
+
+test_dict_key: -99999
+  window_size step_width  Mean_EER median_nu median_gamma
+0        2000       1000  0.051487  0.001119     0.000079
+----------------------
+
+Sorting based on Mean EER among windows
+1) (-99999, 0.05148684210526323)
+
+----------------------
+
+test_dict_key: -99999
+  window_size step_width  Mean_EER median_nu median_gamma
+0        2000       1000  0.023348  0.008255     0.007197
+----------------------
+
+Sorting based on Mean EER among windows
+1) (-99999, 0.023347953216374263)

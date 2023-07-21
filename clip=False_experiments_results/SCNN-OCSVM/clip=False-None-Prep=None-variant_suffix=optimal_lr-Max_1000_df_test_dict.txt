@@ -1,0 +1,61 @@
+
+----------------------------------------2023/06/29-23:00:53----------------------------------------
+
+----------------------------------------clip=False_experiments_results/SCNN-OCSVM/clip=False-None-Prep=None-variant_suffix=optimal_lr-Max_1000_df_test_dict.txt----------------------------------------
+
+----------------------
+test_dict_key: SCNN_1_3_conv_1_dense_arg_dict_default
+  window_size step_width  Mean_EER median_nu median_gamma Gini_coef
+0         125         62  0.106258  0.042914     0.655129  0.677275
+0         250        125  0.089162  0.040876     0.655129  0.766723
+0         500        250  0.076386  0.040876     0.372759  0.819531
+0         750        375  0.061091  0.035779     0.120679  0.874383
+----------------------
+test_dict_key: SCNN_3_123_conv_1_dense_arg_dict_default
+  window_size step_width  Mean_EER median_nu median_gamma Gini_coef
+0         125         62   0.10638  0.042914     0.655129  0.700822
+0         250        125  0.079195  0.040876     0.655129  0.797871
+0         500        250  0.055689  0.040876     0.372759  0.866651
+0         750        375  0.057939  0.035779     0.120679  0.898326
+----------------------
+test_dict_key: SCNN_3_1_conv_1_dense_arg_dict_default
+  window_size step_width  Mean_EER median_nu median_gamma Gini_coef
+0         125         62  0.092565  0.042914     0.655129  0.590193
+0         250        125   0.07316  0.040876     0.655129  0.762512
+0         500        250  0.055194  0.040876     0.372759  0.849336
+0         750        375  0.040525  0.035779     0.120679  0.889476
+----------------------
+test_dict_key: SCNN_1_2_conv_1_dense_arg_dict_default
+  window_size step_width  Mean_EER median_nu median_gamma Gini_coef
+0         125         62   0.10489  0.042914     0.655129  0.678935
+0         250        125  0.092735  0.040876     0.655129  0.757829
+0         500        250  0.077697  0.040876     0.372759  0.800138
+0         750        375   0.06699  0.035779     0.120679  0.836101
+----------------------
+test_dict_key: SCNN_1_1_conv_1_dense_arg_dict_default
+  window_size step_width  Mean_EER median_nu median_gamma Gini_coef
+0         125         62  0.142862  0.042914     0.655129  0.529072
+0         250        125  0.084278  0.040876     0.655129  0.714059
+0         500        250   0.05905  0.040876     0.372759  0.811398
+0         750        375  0.058727  0.035779     0.120679  0.844043
+----------------------
+test_dict_key: SCNN_1_2_conv_2_dense_arg_dict_default
+  window_size step_width  Mean_EER median_nu median_gamma Gini_coef
+0         125         62  0.140528  0.042914     0.655129  0.615293
+0         250        125  0.103234  0.040876     0.655129  0.726466
+0         500        250  0.113454  0.040876     0.372759  0.676745
+0         750        375  0.119333  0.035779     0.120679  0.759654
+----------------------
+test_dict_key: SCNN_1_5_conv_1_dense_arg_dict_default
+  window_size step_width  Mean_EER median_nu median_gamma Gini_coef
+0         125         62  0.233864  0.042914     0.655129  0.432569
+0         250        125   0.26147  0.040876     0.655129  0.498478
+0         500        250  0.069344  0.040876     0.372759  0.812514
+0         750        375  0.082687  0.035779     0.120679  0.845913
+----------------------
+test_dict_key: SCNN_4_1234_conv_1_dense_arg_dict_default
+  window_size step_width  Mean_EER median_nu median_gamma Gini_coef
+0         125         62   0.10936  0.042914     0.655129  0.690803
+0         250        125  0.090399  0.040876     0.655129  0.767295
+0         500        250   0.06593  0.040876     0.372759  0.854942
+0         750        375  0.057434  0.035779     0.120679  0.895506

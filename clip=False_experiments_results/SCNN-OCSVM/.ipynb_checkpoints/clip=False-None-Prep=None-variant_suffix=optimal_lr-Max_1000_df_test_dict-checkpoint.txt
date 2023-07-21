@@ -1,0 +1,12 @@
+
+----------------------------------------2023/06/29-23:00:53----------------------------------------
+
+----------------------------------------clip=False_experiments_results/SCNN-OCSVM/clip=False-None-Prep=None-variant_suffix=optimal_lr-Max_1000_df_test_dict.txt----------------------------------------
+
+----------------------
+test_dict_key: SCNN_1_3_conv_1_dense_arg_dict_default
+  window_size step_width  Mean_EER median_nu median_gamma Gini_coef
+0         125         62  0.106258  0.042914     0.655129  0.677275
+0         250        125  0.089162  0.040876     0.655129  0.766723
+0         500        250  0.076386  0.040876     0.372759  0.819531
+0         750        375  0.061091  0.035779     0.120679  0.874383
