@@ -1,0 +1,56 @@
+
+----------------------------------------2023/07/22-23:43:47----------------------------------------
+
+----------------------------------------clip=False_experiments_results/WACA-kNN/tmp_train.txt----------------------------------------
+
+----------------------Training results for cv_fold_idx: 0----------------------
+
+Test_dict_key: -99999
+  window_size step_width  Mean_EER best_n_neighbors
+0        2000       1000  0.038289               18
+----------------------Training results for cv_fold_idx: 1----------------------
+
+Test_dict_key: -99999
+  window_size step_width  Mean_EER best_n_neighbors
+0        2000       1000  0.048487                4
+----------------------Training results for cv_fold_idx: 2----------------------
+
+Test_dict_key: -99999
+  window_size step_width  Mean_EER best_n_neighbors
+0        2000       1000  0.017763                1
+----------------------Training results for cv_fold_idx: 0----------------------
+cut_off_freq: 33
+  window_size step_width  Mean_EER best_n_neighbors
+0        2000       1000  0.033618               11
+----------------------Training results for cv_fold_idx: 1----------------------
+cut_off_freq: 33
+  window_size step_width  Mean_EER best_n_neighbors
+0        2000       1000  0.042763                3
+----------------------Training results for cv_fold_idx: 2----------------------
+cut_off_freq: 33
+  window_size step_width  Mean_EER best_n_neighbors
+0        2000       1000  0.014839                3
+----------------------Training results for cv_fold_idx: 0----------------------
+cut_off_freq: 33
+  window_size step_width  Mean_EER best_n_neighbors
+0        2000       1000  0.033684               19
+----------------------Training results for cv_fold_idx: 1----------------------
+cut_off_freq: 33
+  window_size step_width  Mean_EER best_n_neighbors
+0        2000       1000  0.042697                3
+----------------------Training results for cv_fold_idx: 2----------------------
+cut_off_freq: 33
+  window_size step_width  Mean_EER best_n_neighbors
+0        2000       1000  0.014693                3
+----------------------Training results for cv_fold_idx: 0----------------------
+cut_off_freq, EMA_span: 33
+  window_size step_width  Mean_EER best_n_neighbors
+0        2000       1000  0.033618               11
+----------------------Training results for cv_fold_idx: 1----------------------
+cut_off_freq, EMA_span: 33
+  window_size step_width  Mean_EER best_n_neighbors
+0        2000       1000  0.042763                3
+----------------------Training results for cv_fold_idx: 2----------------------
+cut_off_freq, EMA_span: 33
+  window_size step_width  Mean_EER best_n_neighbors
+0        2000       1000  0.014839                3

@@ -11,3 +11,147 @@ cut_off_freq: 33
 0        1500        750  0.062963               19  0.764415
 0        1750        875  0.069082               19  0.791142
 0        2000       1000  0.072778               19  0.799321
+----------------------Testing results for cv_fold_idx: 0----------------------
+cut_off_freq: 33
+  window_size step_width  Mean_EER best_n_neighbors Gini_coef
+0        2000       1000  0.026389               11  0.899298
+----------------------Testing results for cv_fold_idx: 1----------------------
+cut_off_freq: 33
+  window_size step_width  Mean_EER best_n_neighbors Gini_coef
+0        2000       1000  0.004167                3  0.925185
+----------------------Testing results for cv_fold_idx: 2----------------------
+cut_off_freq: 33
+  window_size step_width  Mean_EER best_n_neighbors Gini_coef
+0        2000       1000  0.073333                3  0.821044
+----------------------Testing results for cv_fold_idx: 0----------------------
+cut_off_freq: 33
+  window_size step_width  Mean_EER best_n_neighbors Gini_coef
+0        2000       1000  0.026389               11  0.899298
+----------------------Testing results for cv_fold_idx: 1----------------------
+cut_off_freq: 33
+  window_size step_width  Mean_EER best_n_neighbors Gini_coef
+0        2000       1000  0.004167                3  0.925185
+----------------------Testing results for cv_fold_idx: 2----------------------
+cut_off_freq: 33
+  window_size step_width  Mean_EER best_n_neighbors Gini_coef
+0        2000       1000  0.073333                3  0.821044
+----------------------Testing results for cv_fold_idx: 0----------------------
+cut_off_freq, EMA_span: 33
+  window_size step_width  Mean_EER best_n_neighbors Gini_coef
+0        2000       1000  0.026389               11  0.899298
+----------------------Testing results for cv_fold_idx: 1----------------------
+cut_off_freq, EMA_span: 33
+  window_size step_width  Mean_EER best_n_neighbors Gini_coef
+0        2000       1000  0.004167                3  0.925185
+----------------------Testing results for cv_fold_idx: 2----------------------
+cut_off_freq, EMA_span: 33
+  window_size step_width  Mean_EER best_n_neighbors Gini_coef
+0        2000       1000  0.073333                3  0.821044
+----------------------Testing results for cv_fold_idx: 0----------------------
+cut_off_freq, EMA_span: 33
+  window_size step_width  Mean_EER best_n_neighbors Gini_coef
+0        2000       1000  0.026389               11  0.899298
+----------------------Testing results for cv_fold_idx: 1----------------------
+cut_off_freq, EMA_span: 33
+  window_size step_width  Mean_EER best_n_neighbors Gini_coef
+0        2000       1000  0.004167                3  0.925185
+----------------------Testing results for cv_fold_idx: 2----------------------
+cut_off_freq, EMA_span: 33
+  window_size step_width  Mean_EER best_n_neighbors Gini_coef
+0        2000       1000  0.073333                3  0.821044
+----------------------Testing results for cv_fold_idx: 0----------------------
+cut_off_freq: 33
+  window_size step_width  Mean_EER best_n_neighbors Gini_coef
+0        2000       1000  0.026389               11  0.899298
+----------------------Testing results for cv_fold_idx: 1----------------------
+cut_off_freq: 33
+  window_size step_width  Mean_EER best_n_neighbors Gini_coef
+0        2000       1000  0.004167                3  0.925185
+----------------------Testing results for cv_fold_idx: 2----------------------
+cut_off_freq: 33
+  window_size step_width  Mean_EER best_n_neighbors Gini_coef
+0        2000       1000  0.073333                3  0.821044
+----------------------Testing results for cv_fold_idx: 0----------------------
+cut_off_freq: 33
+  window_size step_width  Mean_EER best_n_neighbors Gini_coef
+0        2000       1000  0.026389               11  0.899298
+----------------------Testing results for cv_fold_idx: 1----------------------
+cut_off_freq: 33
+  window_size step_width  Mean_EER best_n_neighbors Gini_coef
+0        2000       1000  0.004167                3  0.925185
+----------------------Testing results for cv_fold_idx: 2----------------------
+cut_off_freq: 33
+  window_size step_width  Mean_EER best_n_neighbors Gini_coef
+0        2000       1000  0.073333                3  0.821044
+----------------------Testing results for cv_fold_idx: 0----------------------
+cut_off_freq: 33
+  window_size step_width  Mean_EER best_n_neighbors Gini_coef
+0         125         62  0.144873                1  0.583015
+0         250        125  0.078876                4  0.729336
+0         500        250  0.046921                3   0.82525
+0         750        375  0.033232                4  0.872847
+0        1000        500  0.030488                5  0.896444
+0        1250        625  0.021875                3  0.881129
+0        1500        750   0.02572                7  0.894133
+0        1750        875  0.023671               11  0.902721
+0        2000       1000  0.026389               11  0.899298
+----------------------Testing results for cv_fold_idx: 0----------------------
+cut_off_freq: 33
+  window_size step_width  Mean_EER best_n_neighbors Gini_coef
+0        1500        750   0.02572                7  0.894133
+0        1750        875  0.023671               11  0.902721
+0        2000       1000  0.026389               11  0.899298
+----------------------Testing results for cv_fold_idx: 0----------------------
+cut_off_freq: 33
+  window_size step_width  Mean_EER best_n_neighbors Gini_coef
+0        1500        750   0.02572                7  0.894133
+0        1750        875  0.023671               11  0.902721
+0        2000       1000  0.026389               11  0.899298
+----------------------Testing results for cv_fold_idx: 1----------------------
+cut_off_freq: 33
+  window_size step_width  Mean_EER best_n_neighbors Gini_coef
+0        1500        750  0.006996                4  0.919608
+0        1750        875   0.00628                3  0.891453
+0        2000       1000  0.004167                3  0.925185
+----------------------Testing results for cv_fold_idx: 2----------------------
+cut_off_freq: 33
+  window_size step_width  Mean_EER best_n_neighbors Gini_coef
+0        1500        750  0.066255                6  0.783299
+0        1750        875  0.072464                2  0.789111
+0        2000       1000  0.073333                3  0.821044
+----------------------Testing results for cv_fold_idx: 0----------------------
+cut_off_freq: 33
+  window_size step_width  Mean_EER best_n_neighbors Gini_coef
+0         125         62  0.144873                1  0.583015
+0         250        125  0.078876                4  0.729336
+0         500        250  0.046921                3   0.82525
+0         750        375  0.033232                4  0.872847
+0        1000        500  0.030488                5  0.896444
+0        1250        625  0.021875                3  0.881129
+0        1500        750   0.02572                7  0.894133
+0        1750        875  0.023671               11  0.902721
+0        2000       1000  0.026389               11  0.899298
+----------------------Testing results for cv_fold_idx: 1----------------------
+cut_off_freq: 33
+  window_size step_width  Mean_EER best_n_neighbors Gini_coef
+0         125         62  0.170673                2  0.534745
+0         250        125  0.094112                2  0.659444
+0         500        250  0.049465                2  0.775718
+0         750        375  0.025455               14  0.830688
+0        1000        500  0.019106                9  0.840741
+0        1250        625  0.011111                3  0.882639
+0        1500        750  0.006996                4  0.919608
+0        1750        875   0.00628                3  0.891453
+0        2000       1000  0.004167                3  0.925185
+----------------------Testing results for cv_fold_idx: 2----------------------
+cut_off_freq: 33
+  window_size step_width  Mean_EER best_n_neighbors Gini_coef
+0         125         62  0.225833                1  0.393326
+0         250        125  0.137558                5  0.541387
+0         500        250  0.102677                7  0.682747
+0         750        375  0.083838               11  0.728193
+0        1000        500  0.076423               11  0.758353
+0        1250        625  0.077083                1   0.76987
+0        1500        750  0.066255                6  0.783299
+0        1750        875  0.072464                2  0.789111
+0        2000       1000  0.073333                3  0.821044

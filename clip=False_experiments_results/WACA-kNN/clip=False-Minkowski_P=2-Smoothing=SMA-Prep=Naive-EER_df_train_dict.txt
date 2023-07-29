@@ -1,0 +1,55 @@
+
+----------------------Training results for cv_fold_idx: 0----------------------
+SMA_winsize: 9
+  window_size step_width  Mean_EER best_n_neighbors
+0        1500        750  0.028363                4
+0        1750        875  0.025686                3
+0        2000       1000  0.030066                3
+----------------------Training results for cv_fold_idx: 1----------------------
+SMA_winsize: 9
+  window_size step_width  Mean_EER best_n_neighbors
+0        1500        750  0.040497                3
+0        1750        875  0.038844                2
+0        2000       1000  0.040789                1
+----------------------Training results for cv_fold_idx: 2----------------------
+SMA_winsize: 9
+  window_size step_width  Mean_EER best_n_neighbors
+0        1500        750  0.023338                5
+0        1750        875   0.01926               15
+0        2000       1000  0.017398               14
+----------------------Training results for cv_fold_idx: 0----------------------
+SMA_winsize: 9
+  window_size step_width  Mean_EER best_n_neighbors
+0         125         62  0.203471                1
+0         250        125  0.120848                2
+0         500        250  0.073684               17
+0         750        375  0.051077                4
+0        1000        500  0.040789                3
+0        1250        625  0.034663               10
+0        1500        750  0.028363                4
+0        1750        875  0.025686                3
+0        2000       1000  0.030066                3
+----------------------Training results for cv_fold_idx: 1----------------------
+SMA_winsize: 9
+  window_size step_width  Mean_EER best_n_neighbors
+0         125         62  0.185468                1
+0         250        125  0.112441                5
+0         500        250  0.072099               16
+0         750        375  0.056962                8
+0        1000        500  0.049069                1
+0        1250        625  0.044572               10
+0        1500        750  0.040497                3
+0        1750        875  0.038844                2
+0        2000       1000  0.040789                1
+----------------------Training results for cv_fold_idx: 2----------------------
+SMA_winsize: 9
+  window_size step_width  Mean_EER best_n_neighbors
+0         125         62  0.176393                1
+0         250        125  0.110271                3
+0         500        250  0.066018               18
+0         750        375  0.045561               15
+0        1000        500  0.035979                8
+0        1250        625  0.026042                9
+0        1500        750  0.023338                5
+0        1750        875   0.01926               15
+0        2000       1000  0.017398               14

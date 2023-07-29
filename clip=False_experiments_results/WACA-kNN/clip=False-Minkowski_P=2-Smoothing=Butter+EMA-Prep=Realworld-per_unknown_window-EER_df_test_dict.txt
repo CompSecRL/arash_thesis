@@ -11,3 +11,69 @@
 0        1500        750  0.069136               19  0.771958
 0        1750        875  0.070048               19  0.790038
 0        2000       1000  0.074167               19  0.798211
+----------------------Testing results for cv_fold_idx: 0----------------------
+cut_off_freq, EMA_span: (49, 4)
+  window_size step_width  Mean_EER best_n_neighbors Gini_coef
+0        2000       1000  0.040278                2  0.894483
+----------------------Testing results for cv_fold_idx: 1----------------------
+cut_off_freq, EMA_span: (49, 4)
+  window_size step_width  Mean_EER best_n_neighbors Gini_coef
+0        2000       1000  0.003889                2  0.946032
+----------------------Testing results for cv_fold_idx: 2----------------------
+cut_off_freq, EMA_span: (49, 4)
+  window_size step_width  Mean_EER best_n_neighbors Gini_coef
+0        2000       1000  0.074722                2  0.808302
+----------------------Testing results for cv_fold_idx: 0----------------------
+cut_off_freq, EMA_span: (49, 4)
+  window_size step_width  Mean_EER best_n_neighbors Gini_coef
+0        1500        750  0.036831               11  0.863253
+0        1750        875  0.032367               12  0.891211
+0        2000       1000  0.040278                2  0.894483
+----------------------Testing results for cv_fold_idx: 1----------------------
+cut_off_freq, EMA_span: (49, 4)
+  window_size step_width  Mean_EER best_n_neighbors Gini_coef
+0        1500        750  0.005761                8  0.886508
+0        1750        875  0.005314               12  0.881818
+0        2000       1000  0.003889                2  0.946032
+----------------------Testing results for cv_fold_idx: 2----------------------
+cut_off_freq, EMA_span: (49, 4)
+  window_size step_width  Mean_EER best_n_neighbors Gini_coef
+0        1500        750  0.067695                5  0.777676
+0        1750        875  0.075121                2  0.802251
+0        2000       1000  0.074722                2  0.808302
+----------------------Testing results for cv_fold_idx: 0----------------------
+cut_off_freq, EMA_span: (49, 4)
+  window_size step_width  Mean_EER best_n_neighbors Gini_coef
+0         125         62  0.147923                2  0.592428
+0         250        125    0.0831                4  0.726297
+0         500        250  0.046452               12  0.814057
+0         750        375  0.035354                7   0.85981
+0        1000        500  0.038347               12  0.880448
+0        1250        625  0.026736               11   0.86811
+0        1500        750  0.036831               11  0.863253
+0        1750        875  0.032367               12  0.891211
+0        2000       1000  0.040278                2  0.894483
+----------------------Testing results for cv_fold_idx: 1----------------------
+cut_off_freq, EMA_span: (49, 4)
+  window_size step_width  Mean_EER best_n_neighbors Gini_coef
+0         125         62  0.179904                1  0.526071
+0         250        125  0.105223                4  0.648544
+0         500        250  0.058969                3  0.763564
+0         750        375  0.031616                5  0.822897
+0        1000        500  0.018428               12  0.845588
+0        1250        625  0.015972                9  0.867874
+0        1500        750  0.005761                8  0.886508
+0        1750        875  0.005314               12  0.881818
+0        2000       1000  0.003889                2  0.946032
+----------------------Testing results for cv_fold_idx: 2----------------------
+cut_off_freq, EMA_span: (49, 4)
+  window_size step_width  Mean_EER best_n_neighbors Gini_coef
+0         125         62  0.225453                1  0.383874
+0         250        125   0.13839                3  0.545641
+0         500        250  0.100669               11  0.658067
+0         750        375  0.085657               19  0.724686
+0        1000        500  0.077913                7  0.750396
+0        1250        625  0.077431                2  0.778824
+0        1500        750  0.067695                5  0.777676
+0        1750        875  0.075121                2  0.802251
+0        2000       1000  0.074722                2  0.808302

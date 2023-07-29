@@ -1,0 +1,67 @@
+
+----------------------Training results for cv_fold_idx: 0----------------------
+cut_off_freq, SMA winsize: (26, 2)
+  window_size step_width  Mean_EER median_nu median_gamma
+0        2000       1000  0.035697  0.004178     0.000192
+----------------------Training results for cv_fold_idx: 1----------------------
+cut_off_freq, SMA winsize: (26, 2)
+  window_size step_width  Mean_EER median_nu median_gamma
+0        2000       1000  0.046868  0.001119     0.000079
+----------------------Training results for cv_fold_idx: 2----------------------
+cut_off_freq, SMA winsize: (26, 2)
+  window_size step_width  Mean_EER median_nu median_gamma
+0        2000       1000  0.025146  0.012333     0.000079
+----------------------Training results for cv_fold_idx: 0----------------------
+cut_off_freq, SMA_winsize: (26, 2)
+  window_size step_width  Mean_EER median_nu median_gamma
+0        1500        750  0.032544  0.008255      0.00138
+0        1750        875  0.040332  0.004178     0.000337
+0        2000       1000  0.035697  0.004178     0.000192
+----------------------Training results for cv_fold_idx: 1----------------------
+cut_off_freq, SMA_winsize: (26, 2)
+  window_size step_width  Mean_EER median_nu median_gamma
+0        1500        750  0.046248  0.008255     0.000429
+0        1750        875  0.045686  0.008255     0.000079
+0        2000       1000  0.046868  0.001119     0.000079
+----------------------Training results for cv_fold_idx: 2----------------------
+cut_off_freq, SMA_winsize: (26, 2)
+  window_size step_width  Mean_EER median_nu median_gamma
+0        1500        750   0.02285  0.014371     0.004095
+0        1750        875  0.022095  0.012333     0.000429
+0        2000       1000  0.025146  0.012333     0.000079
+----------------------Training results for cv_fold_idx: 0----------------------
+cut_off_freq, SMA_winsize: (26, 2)
+  window_size step_width  Mean_EER median_nu median_gamma
+0         125         62  0.177931  0.034759     0.655129
+0         250        125  0.108557  0.056166     0.655129
+0         500        250  0.067736   0.03272     0.212095
+0         750        375  0.051053  0.024565     0.166387
+0        1000        500  0.048967  0.035779     0.004095
+0        1250        625  0.047944   0.03374     0.000244
+0        1500        750  0.032544  0.008255      0.00138
+0        1750        875  0.040332  0.004178     0.000337
+0        2000       1000  0.035697  0.004178     0.000192
+----------------------Training results for cv_fold_idx: 1----------------------
+cut_off_freq, SMA_winsize: (26, 2)
+  window_size step_width  Mean_EER median_nu median_gamma
+0         125         62  0.169459   0.03374     0.655129
+0         250        125  0.105849  0.057186     0.655129
+0         500        250  0.070292   0.01743     0.212095
+0         750        375  0.060373  0.030682     0.120679
+0        1000        500  0.059262   0.03272     0.000429
+0        1250        625  0.053289  0.008255     0.000429
+0        1500        750  0.046248  0.008255     0.000429
+0        1750        875  0.045686  0.008255     0.000079
+0        2000       1000  0.046868  0.001119     0.000079
+----------------------Training results for cv_fold_idx: 2----------------------
+cut_off_freq, SMA_winsize: (26, 2)
+  window_size step_width  Mean_EER median_nu median_gamma
+0         125         62   0.14756  0.042914     0.655129
+0         250        125  0.088582  0.042914     0.372759
+0         500        250  0.050641  0.030682     0.212095
+0         750        375   0.03597   0.03272     0.120679
+0        1000        500  0.028306   0.03272     0.004095
+0        1250        625  0.026672  0.030682      0.00233
+0        1500        750   0.02285  0.014371     0.004095
+0        1750        875  0.022095  0.012333     0.000429
+0        2000       1000  0.025146  0.012333     0.000079

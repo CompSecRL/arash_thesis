@@ -1,0 +1,9 @@
+
+----------------------Testing results for cv_fold_idx: 0----------------------
+cut_off_freq: 41
+  window_size step_width  Mean_EER median_nu median_gamma Gini_coef
+0        2000       1000  0.034167  0.002139     0.000079  0.892809
+----------------------Testing results for cv_fold_idx: 1----------------------
+cut_off_freq: 41
+  window_size step_width  Mean_EER median_nu median_gamma Gini_coef
+0        2000       1000  0.007167    0.0001     0.000079  0.880362

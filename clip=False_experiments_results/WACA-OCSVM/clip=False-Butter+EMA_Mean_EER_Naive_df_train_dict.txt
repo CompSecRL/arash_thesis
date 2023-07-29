@@ -1,0 +1,73 @@
+
+----------------------Training results for cv_fold_idx: 0----------------------
+\cut_off_freq: 24
+
+----------------------Training results for cv_fold_idx: 0----------------------
+cut_off_freq, EMA_span: (24, 30)
+
+----------------------Training results for cv_fold_idx: 0----------------------
+cut_off_freq, EMA_span: (24, 30)
+  window_size step_width  Mean_EER median_nu median_gamma
+0        2000       1000  0.034053  0.008255     0.000337
+----------------------Training results for cv_fold_idx: 1----------------------
+cut_off_freq, EMA_span: (24, 30)
+  window_size step_width  Mean_EER median_nu median_gamma
+0        2000       1000  0.047513  0.006216     0.000079
+----------------------Training results for cv_fold_idx: 2----------------------
+cut_off_freq, EMA_span: (24, 30)
+  window_size step_width Mean_EER median_nu median_gamma
+0        2000       1000  0.01905  0.008255     0.000429
+----------------------Training results for cv_fold_idx: 0----------------------
+cut_off_freq, EMA_span: (24, 30)
+  window_size step_width  Mean_EER median_nu median_gamma
+0        1500        750  0.028977  0.022527     0.000429
+0        1750        875  0.032666  0.008255     0.000337
+0        2000       1000  0.034053  0.008255     0.000337
+----------------------Training results for cv_fold_idx: 1----------------------
+cut_off_freq, EMA_span: (24, 30)
+  window_size step_width  Mean_EER median_nu median_gamma
+0        1500        750   0.04039  0.013352     0.000244
+0        1750        875  0.041476  0.008255     0.000337
+0        2000       1000  0.047513  0.006216     0.000079
+----------------------Training results for cv_fold_idx: 2----------------------
+cut_off_freq, EMA_span: (24, 30)
+  window_size step_width  Mean_EER median_nu median_gamma
+0        1500        750  0.020912  0.022527     0.000429
+0        1750        875  0.019921  0.014371     0.000244
+0        2000       1000   0.01905  0.008255     0.000429
+----------------------Training results for cv_fold_idx: 0----------------------
+cut_off_freq, EMA_span: (24, 30)
+  window_size step_width  Mean_EER median_nu median_gamma
+0         125         62  0.171156  0.030682     0.655129
+0         250        125  0.107159  0.036798     0.120679
+0         500        250  0.073221  0.031701     0.012649
+0         750        375  0.057431  0.031701     0.000877
+0        1000        500  0.045167  0.038837     0.000192
+0        1250        625  0.037829  0.022527     0.000429
+0        1500        750  0.028977  0.022527     0.000429
+0        1750        875  0.032666  0.008255     0.000337
+0        2000       1000  0.034053  0.008255     0.000337
+----------------------Training results for cv_fold_idx: 1----------------------
+cut_off_freq, EMA_span: (24, 30)
+  window_size step_width  Mean_EER median_nu median_gamma
+0         125         62  0.151784  0.055147     0.655129
+0         250        125  0.099171   0.03374     0.372759
+0         500        250  0.062945   0.03374     0.212095
+0         750        375  0.064512   0.03272     0.000244
+0        1000        500   0.05414  0.028643      0.00271
+0        1250        625  0.047426  0.022527     0.000079
+0        1500        750   0.04039  0.013352     0.000244
+0        1750        875  0.041476  0.008255     0.000337
+0        2000       1000  0.047513  0.006216     0.000079
+----------------------Training results for cv_fold_idx: 2----------------------
+cut_off_freq, EMA_span: (24, 30)
+  window_size step_width  Mean_EER median_nu median_gamma
+0         125         62   0.14818   0.03272     0.655129
+0         250        125  0.093933  0.036798     0.212095
+0         500        250  0.057888  0.034759     0.120679
+0         750        375    0.0437  0.030682     0.000429
+0        1000        500  0.031151  0.034759     0.004095
+0        1250        625  0.024041  0.026604     0.000079
+0        1500        750  0.020912  0.022527     0.000429
+0        1750        875  0.019921  0.014371     0.000244
+0        2000       1000   0.01905  0.008255     0.000429

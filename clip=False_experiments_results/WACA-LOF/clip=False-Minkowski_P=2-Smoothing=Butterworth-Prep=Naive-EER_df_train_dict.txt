@@ -1,0 +1,61 @@
+
+----------------------Training results for cv_fold_idx: 0----------------------
+\cut_off_freq: 37
+  window_size step_width  Mean_EER median_n_neighbors median_contamination
+0        2000       1000  0.033684                 11             0.049031
+----------------------Training results for cv_fold_idx: 1----------------------
+\cut_off_freq: 37
+  window_size step_width  Mean_EER median_n_neighbors median_contamination
+0        2000       1000  0.044408                 10             0.049031
+----------------------Training results for cv_fold_idx: 2----------------------
+\cut_off_freq: 37
+  window_size step_width  Mean_EER median_n_neighbors median_contamination
+0        2000       1000  0.017544                 10             0.049031
+----------------------Training results for cv_fold_idx: 0----------------------
+cut_off_freq: 37
+  window_size step_width  Mean_EER median_n_neighbors median_contamination
+0         125         62  0.161413                  8             0.041895
+0         250        125  0.100867                  9             0.049031
+0         500        250  0.068738                  8             0.049031
+0         750        375  0.047871                 10             0.049031
+0        1000        500    0.0457                  9             0.042914
+0        1250        625  0.040625                 12             0.049031
+0        1500        750  0.031335                 10             0.049031
+0        1750        875  0.030721                 11             0.049031
+0        2000       1000  0.033684                 11             0.049031
+----------------------Training results for cv_fold_idx: 0----------------------
+cut_off_freq: 37
+  window_size step_width  Mean_EER median_n_neighbors median_contamination
+0         125         62  0.161413                  8             0.041895
+0         250        125  0.100867                  9             0.049031
+0         500        250  0.068738                  8             0.049031
+0         750        375  0.047871                 10             0.049031
+0        1000        500    0.0457                  9             0.042914
+0        1250        625  0.040625                 12             0.049031
+0        1500        750  0.031335                 10             0.049031
+0        1750        875  0.030721                 11             0.049031
+0        2000       1000  0.033684                 11             0.049031
+----------------------Training results for cv_fold_idx: 1----------------------
+cut_off_freq: 37
+  window_size step_width  Mean_EER median_n_neighbors median_contamination
+0         125         62   0.16105                  8             0.049031
+0         250        125  0.104349                  8             0.049031
+0         500        250  0.067581                 11             0.049031
+0         750        375  0.057368                 11             0.051069
+0        1000        500  0.051637                  9             0.049031
+0        1250        625  0.046423                 11             0.049031
+0        1500        750   0.04386                 10             0.049031
+0        1750        875  0.041991                 10             0.049031
+0        2000       1000  0.044408                 10             0.049031
+----------------------Training results for cv_fold_idx: 2----------------------
+cut_off_freq: 37
+  window_size step_width  Mean_EER median_n_neighbors median_contamination
+0         125         62  0.143479                  6             0.048011
+0         250        125  0.081512                  8             0.051069
+0         500        250  0.048633                 11             0.046992
+0         750        375  0.033679                  7             0.051069
+0        1000        500  0.029775                 10             0.049031
+0        1250        625  0.022067                 11             0.046992
+0        1500        750  0.021226                 11             0.049031
+0        1750        875  0.018243                 11             0.049031
+0        2000       1000  0.017544                 10             0.049031

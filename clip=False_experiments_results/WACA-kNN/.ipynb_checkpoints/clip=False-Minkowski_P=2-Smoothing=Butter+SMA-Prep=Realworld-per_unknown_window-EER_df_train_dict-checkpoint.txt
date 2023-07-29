@@ -1,0 +1,19 @@
+
+----------------------Training results for cv_fold_idx: 0----------------------
+cut_off_freq, SMA_winsize: (26, 2)
+  window_size step_width  Mean_EER best_n_neighbors
+0        1500        750  0.030994               14
+0        1750        875  0.031465               12
+0        2000       1000  0.033421               11
+----------------------Training results for cv_fold_idx: 1----------------------
+cut_off_freq, SMA_winsize: (26, 2)
+  window_size step_width  Mean_EER best_n_neighbors
+0        1500        750  0.043226                2
+0        1750        875  0.042105                4
+0        2000       1000  0.043882               19
+----------------------Training results for cv_fold_idx: 2----------------------
+cut_off_freq, SMA_winsize: (26, 2)
+  window_size step_width  Mean_EER best_n_neighbors
+0        1500        750  0.021226                2
+0        1750        875  0.017544                6
+0        2000       1000  0.017544               14

@@ -1,0 +1,81 @@
+
+----------------------Training results for cv_fold_idx: 0----------------------
+cut_off_freq, EMA_span: 33
+  window_size step_width  Mean_EER best_n_neighbors
+0        2000       1000  0.033618               11
+----------------------Training results for cv_fold_idx: 1----------------------
+cut_off_freq, EMA_span: 33
+  window_size step_width  Mean_EER best_n_neighbors
+0        2000       1000  0.042763                3
+----------------------Training results for cv_fold_idx: 2----------------------
+cut_off_freq, EMA_span: 33
+  window_size step_width  Mean_EER best_n_neighbors
+0        2000       1000  0.014839                3
+----------------------Training results for cv_fold_idx: 0----------------------
+cut_off_freq: 33
+  window_size step_width  Mean_EER best_n_neighbors
+0        2000       1000  0.033618               11
+----------------------Training results for cv_fold_idx: 1----------------------
+cut_off_freq: 33
+  window_size step_width  Mean_EER best_n_neighbors
+0        2000       1000  0.042763                3
+----------------------Training results for cv_fold_idx: 2----------------------
+cut_off_freq: 33
+  window_size step_width  Mean_EER best_n_neighbors
+0        2000       1000  0.014839                3
+----------------------Training results for cv_fold_idx: 0----------------------
+cut_off_freq: 33
+  window_size step_width  Mean_EER best_n_neighbors
+0        2000       1000  0.033684               19
+----------------------Training results for cv_fold_idx: 1----------------------
+cut_off_freq: 33
+  window_size step_width  Mean_EER best_n_neighbors
+0        2000       1000  0.042697                3
+----------------------Training results for cv_fold_idx: 2----------------------
+cut_off_freq: 33
+  window_size step_width  Mean_EER best_n_neighbors
+0        2000       1000  0.014693                3
+----------------------Training results for cv_fold_idx: 0----------------------
+cut_off_freq: 33
+  window_size step_width  Mean_EER best_n_neighbors
+0        2000       1000  0.033618               11
+----------------------Training results for cv_fold_idx: 1----------------------
+cut_off_freq: 33
+  window_size step_width  Mean_EER best_n_neighbors
+0        2000       1000  0.042763                3
+----------------------Training results for cv_fold_idx: 2----------------------
+cut_off_freq: 33
+  window_size step_width  Mean_EER best_n_neighbors
+0        2000       1000  0.014839                3
+----------------------Training results for cv_fold_idx: 0----------------------
+cut_off_freq: 33
+  window_size step_width  Mean_EER best_n_neighbors
+0        2000       1000  0.033684               19
+----------------------Training results for cv_fold_idx: 1----------------------
+cut_off_freq: 33
+  window_size step_width  Mean_EER best_n_neighbors
+0        2000       1000  0.042697                3
+----------------------Training results for cv_fold_idx: 2----------------------
+cut_off_freq: 33
+  window_size step_width  Mean_EER best_n_neighbors
+0        2000       1000  0.014693                3
+----------------------Training results for cv_fold_idx: 0----------------------
+cut_off_freq, EMA_span: (47, 41)
+  window_size step_width  Mean_EER best_n_neighbors
+0        2000       1000  0.032829               18
+----------------------Training results for cv_fold_idx: 1----------------------
+cut_off_freq, EMA_span: (47, 41)
+  window_size step_width  Mean_EER best_n_neighbors
+0        2000       1000  0.044934                7
+----------------------Training results for cv_fold_idx: 2----------------------
+cut_off_freq, EMA_span: (47, 41)
+  window_size step_width  Mean_EER best_n_neighbors
+0        2000       1000  0.017471               19
+----------------------Training results for cv_fold_idx: 0----------------------
+cut_off_freq, EMA_span: (49, 4)
+  window_size step_width  Mean_EER best_n_neighbors
+0        2000       1000  0.031645                2
+----------------------Training results for cv_fold_idx: 1----------------------
+cut_off_freq, EMA_span: (49, 4)
+  window_size step_width  Mean_EER best_n_neighbors
+0        2000       1000  0.043618                2

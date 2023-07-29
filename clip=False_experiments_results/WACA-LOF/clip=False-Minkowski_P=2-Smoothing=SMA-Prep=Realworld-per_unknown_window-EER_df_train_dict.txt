@@ -1,0 +1,49 @@
+
+----------------------Training results for cv_fold_idx: 0----------------------
+SMA winsize: 1
+  window_size step_width  Mean_EER median_n_neighbors median_contamination
+0        2000       1000  0.037566                 11             0.049031
+----------------------Training results for cv_fold_idx: 1----------------------
+SMA winsize: 1
+  window_size step_width  Mean_EER median_n_neighbors median_contamination
+0        2000       1000  0.048355                 11             0.049031
+----------------------Training results for cv_fold_idx: 2----------------------
+SMA winsize: 1
+  window_size step_width  Mean_EER median_n_neighbors median_contamination
+0        2000       1000  0.018275                 11             0.049031
+----------------------Training results for cv_fold_idx: 0----------------------
+SMA_winsize: 1
+  window_size step_width  Mean_EER median_n_neighbors median_contamination
+0         125         62  0.168234                  8             0.042914
+0         250        125  0.108123                  8             0.044953
+0         500        250   0.07267                  8             0.049031
+0         750        375  0.055072                 10             0.043934
+0        1000        500  0.050096                  9             0.049031
+0        1250        625  0.043668                 10             0.049031
+0        1500        750  0.034211                 11             0.049031
+0        1750        875  0.037185                 10             0.049031
+0        2000       1000  0.037566                 11             0.049031
+----------------------Training results for cv_fold_idx: 1----------------------
+SMA_winsize: 1
+  window_size step_width  Mean_EER median_n_neighbors median_contamination
+0         125         62  0.166859                  8             0.046992
+0         250        125  0.106981                  9             0.049031
+0         500        250  0.070799                 10             0.049031
+0         750        375  0.062847                  9             0.044953
+0        1000        500  0.055006                  9             0.049031
+0        1250        625  0.050247                  9             0.049031
+0        1500        750  0.046199                 11             0.049031
+0        1750        875  0.045767                 10             0.049031
+0        2000       1000  0.048355                 11             0.049031
+----------------------Training results for cv_fold_idx: 2----------------------
+SMA_winsize: 1
+  window_size step_width  Mean_EER median_n_neighbors median_contamination
+0         125         62  0.152324                  6             0.053108
+0         250        125  0.089321                  8             0.049031
+0         500        250  0.054763                  8             0.049031
+0         750        375  0.038517                 11             0.049031
+0        1000        500   0.03113                 11             0.049031
+0        1250        625  0.024397                 10             0.049031
+0        1500        750  0.020143                 11             0.049031
+0        1750        875  0.018307                 10             0.049031
+0        2000       1000  0.018275                 11             0.049031

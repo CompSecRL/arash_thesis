@@ -11,3 +11,75 @@
 0        1500        750  0.066872                 11             0.044953  0.773983
 0        1750        875  0.067874                 10             0.049031  0.806287
 0        2000       1000  0.073889                 11             0.046992  0.818881
+----------------------Testing results for cv_fold_idx: 0----------------------
+\Top smoothing parameter/s: 33
+  window_size step_width  Mean_EER median_n_neighbors median_contamination Gini_coef
+0        2000       1000  0.041944                 11             0.049031  0.878661
+----------------------Testing results for cv_fold_idx: 1----------------------
+\Top smoothing parameter/s: 33
+  window_size step_width  Mean_EER median_n_neighbors median_contamination Gini_coef
+0        2000       1000  0.005278                 10             0.049031  0.925731
+----------------------Testing results for cv_fold_idx: 2----------------------
+\Top smoothing parameter/s: 33
+  window_size step_width  Mean_EER median_n_neighbors median_contamination Gini_coef
+0        2000       1000  0.073889                 10             0.049031   0.82381
+----------------------Testing results for cv_fold_idx: 0----------------------
+\Top smoothing parameter/s: 33
+  window_size step_width  Mean_EER median_n_neighbors median_contamination Gini_coef
+0        2000       1000  0.041944                 11             0.049031  0.878661
+----------------------Testing results for cv_fold_idx: 1----------------------
+\Top smoothing parameter/s: 33
+  window_size step_width  Mean_EER median_n_neighbors median_contamination Gini_coef
+0        2000       1000  0.005278                 10             0.049031  0.925731
+----------------------Testing results for cv_fold_idx: 2----------------------
+\Top smoothing parameter/s: 33
+  window_size step_width  Mean_EER median_n_neighbors median_contamination Gini_coef
+0        2000       1000  0.073889                 10             0.049031   0.82381
+----------------------Testing results for cv_fold_idx: 0----------------------
+cut_off_freq: 33
+  window_size step_width  Mean_EER median_n_neighbors median_contamination Gini_coef
+0        2000       1000  0.041944                 11             0.049031  0.878661
+----------------------Testing results for cv_fold_idx: 1----------------------
+cut_off_freq: 33
+  window_size step_width  Mean_EER median_n_neighbors median_contamination Gini_coef
+0        2000       1000  0.005278                 10             0.049031  0.925731
+----------------------Testing results for cv_fold_idx: 2----------------------
+cut_off_freq: 33
+  window_size step_width  Mean_EER median_n_neighbors median_contamination Gini_coef
+0        2000       1000  0.073889                 10             0.049031   0.82381
+----------------------Testing results for cv_fold_idx: 0----------------------
+cut_off_freq: 33
+  window_size step_width  Mean_EER median_n_neighbors median_contamination Gini_coef
+0         125         62   0.13452                  8             0.044953  0.591307
+0         250        125  0.072289                  9             0.051069  0.741458
+0         500        250  0.043173                  9             0.048011  0.821344
+0         750        375   0.03404                 10             0.049031  0.876327
+0        1000        500  0.038753                  9             0.044953  0.882051
+0        1250        625  0.026215                 12             0.049031  0.881751
+0        1500        750  0.037243                 11             0.049031  0.862676
+0        1750        875  0.025604                 11             0.049031  0.884486
+0        2000       1000  0.041944                 11             0.049031  0.878661
+----------------------Testing results for cv_fold_idx: 1----------------------
+cut_off_freq: 33
+  window_size step_width  Mean_EER median_n_neighbors median_contamination Gini_coef
+0         125         62  0.137834                  9             0.049031  0.575212
+0         250        125  0.077412                  9             0.051069  0.677606
+0         500        250  0.044244                 10             0.051069  0.803345
+0         750        375  0.023838                 11             0.049031  0.840395
+0        1000        500  0.019919                  9             0.049031  0.840287
+0        1250        625    0.0125                 11             0.048011  0.882407
+0        1500        750   0.00679                  9             0.049031  0.910774
+0        1750        875  0.006522                 10             0.049031  0.899177
+0        2000       1000  0.005278                 10             0.049031  0.925731
+----------------------Testing results for cv_fold_idx: 2----------------------
+cut_off_freq: 33
+  window_size step_width  Mean_EER median_n_neighbors median_contamination Gini_coef
+0         125         62  0.195928                  6             0.051069   0.43491
+0         250        125  0.137758                  9             0.056166  0.592839
+0         500        250  0.101473                 10             0.051069  0.698607
+0         750        375  0.085253                  8             0.049031   0.74376
+0        1000        500  0.080759                 10             0.049031  0.764616
+0        1250        625  0.076736                 11             0.046992  0.779839
+0        1500        750  0.066872                 11             0.049031  0.773983
+0        1750        875  0.068599                 11             0.049031   0.80266
+0        2000       1000  0.073889                 10             0.049031   0.82381

@@ -1,34 +1,53 @@
 
-----------------------------------------2023/07/20-07:24:59----------------------------------------
+----------------------------------------2023/07/22-08:03:51----------------------------------------
 
 ----------------------------------------clip=False_experiments_results/WACA-OCSVM/tmp_train.txt----------------------------------------
 
-----------------------
-
-test_dict_key: -99999
+----------------------Training results for cv_fold_idx: 0----------------------
+\Test_dict_key: -99999
   window_size step_width  Mean_EER median_nu median_gamma
-0        2000       1000  0.040605  0.006216     0.003212
-----------------------
-
-Sorting based on Mean EER among windows
-1) (-99999, 0.04060526315789478)
-
-----------------------
-
-test_dict_key: -99999
+0        2000       1000  0.042092  0.006216     0.000337
+----------------------Training results for cv_fold_idx: 1----------------------
+\Test_dict_key: -99999
   window_size step_width  Mean_EER median_nu median_gamma
-0        2000       1000  0.051566  0.001119     0.000079
-----------------------
-
-Sorting based on Mean EER among windows
-1) (-99999, 0.05156578947368428)
-
-----------------------
-
-test_dict_key: -99999
+0        2000       1000  0.051487  0.001119     0.000079
+----------------------Training results for cv_fold_idx: 2----------------------
+\Test_dict_key: -99999
   window_size step_width  Mean_EER median_nu median_gamma
-0        2000       1000  0.019386  0.008255      0.02223
-----------------------
-
-Sorting based on Mean EER among windows
-1) (-99999, 0.01938596491228069)
+0        2000       1000  0.023348  0.008255     0.007197
+----------------------Training results for cv_fold_idx: 0----------------------
+\cut_off_freq: 41
+  window_size step_width  Mean_EER median_nu median_gamma
+0        2000       1000  0.036632  0.002139     0.000079
+----------------------Training results for cv_fold_idx: 1----------------------
+\cut_off_freq: 41
+  window_size step_width  Mean_EER median_nu median_gamma
+0        2000       1000  0.048513    0.0001     0.000079
+----------------------Training results for cv_fold_idx: 2----------------------
+\cut_off_freq: 41
+  window_size step_width  Mean_EER median_nu median_gamma
+0        2000       1000  0.022105  0.008255     0.000429
+----------------------Training results for cv_fold_idx: 0----------------------
+\cut_off_freq: 41
+  window_size step_width  Mean_EER median_nu median_gamma
+0        2000       1000  0.036632  0.002139     0.000079
+----------------------Training results for cv_fold_idx: 1----------------------
+\cut_off_freq: 41
+  window_size step_width  Mean_EER median_nu median_gamma
+0        2000       1000  0.048513    0.0001     0.000079
+----------------------Training results for cv_fold_idx: 2----------------------
+\cut_off_freq: 41
+  window_size step_width  Mean_EER median_nu median_gamma
+0        2000       1000  0.022105  0.008255     0.000429
+----------------------Training results for cv_fold_idx: 0----------------------
+\cut_off_freq: 49
+  window_size step_width  Mean_EER median_nu median_gamma
+0        2000       1000  0.036605  0.007236     0.000079
+----------------------Training results for cv_fold_idx: 1----------------------
+\cut_off_freq: 49
+  window_size step_width  Mean_EER median_nu median_gamma
+0        2000       1000  0.047316  0.001119     0.000079
+----------------------Training results for cv_fold_idx: 2----------------------
+\cut_off_freq: 49
+  window_size step_width  Mean_EER median_nu median_gamma
+0        2000       1000  0.019181  0.008255     0.004095

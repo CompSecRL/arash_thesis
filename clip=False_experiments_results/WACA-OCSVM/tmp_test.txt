@@ -1,0 +1,29 @@
+
+----------------------------------------2023/07/22-08:03:51----------------------------------------
+
+----------------------------------------clip=False_experiments_results/WACA-OCSVM/tmp_test.txt----------------------------------------
+
+----------------------Testing results for cv_fold_idx: 0----------------------
+\Top smoothing parameter/s: -99999
+  window_size step_width  Mean_EER median_nu median_gamma Gini_coef
+0        2000       1000  0.034111  0.006216     0.000337  0.899529
+----------------------Testing results for cv_fold_idx: 1----------------------
+\Top smoothing parameter/s: -99999
+  window_size step_width  Mean_EER median_nu median_gamma Gini_coef
+0        2000       1000  0.006944  0.001119     0.000079  0.861244
+----------------------Testing results for cv_fold_idx: 2----------------------
+\Top smoothing parameter/s: -99999
+  window_size step_width  Mean_EER median_nu median_gamma Gini_coef
+0        2000       1000  0.077778  0.008255     0.007197  0.801571
+----------------------Testing results for cv_fold_idx: 0----------------------
+cut_off_freq: 41
+  window_size step_width  Mean_EER median_nu median_gamma Gini_coef
+0        2000       1000  0.034167  0.002139     0.000079  0.892809
+----------------------Testing results for cv_fold_idx: 1----------------------
+cut_off_freq: 41
+  window_size step_width  Mean_EER median_nu median_gamma Gini_coef
+0        2000       1000  0.007167    0.0001     0.000079  0.880362
+----------------------Testing results for cv_fold_idx: 2----------------------
+cut_off_freq: 41
+  window_size step_width Mean_EER median_nu median_gamma Gini_coef
+0        2000       1000    0.078  0.008255     0.000429  0.806442

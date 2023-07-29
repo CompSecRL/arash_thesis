@@ -1,0 +1,79 @@
+
+----------------------Training results for cv_fold_idx: 0----------------------
+EMA span: 9
+  window_size step_width  Mean_EER median_nu median_gamma
+0        2000       1000  0.034803  0.018449     0.000429
+----------------------Training results for cv_fold_idx: 1----------------------
+EMA span: 9
+  window_size step_width Mean_EER median_nu median_gamma
+0        2000       1000    0.044  0.007236     0.000337
+----------------------Training results for cv_fold_idx: 2----------------------
+EMA span: 9
+  window_size step_width  Mean_EER median_nu median_gamma
+0        2000       1000  0.023406  0.008255     0.004095
+----------------------Training results for cv_fold_idx: 0----------------------
+EMA span: 9
+  window_size step_width  Mean_EER median_nu median_gamma
+0        2000       1000  0.034803  0.018449     0.000429
+----------------------Training results for cv_fold_idx: 1----------------------
+EMA span: 9
+  window_size step_width Mean_EER median_nu median_gamma
+0        2000       1000    0.044  0.007236     0.000337
+----------------------Training results for cv_fold_idx: 2----------------------
+EMA span: 9
+  window_size step_width  Mean_EER median_nu median_gamma
+0        2000       1000  0.023406  0.008255     0.004095
+----------------------Training results for cv_fold_idx: 0----------------------
+EMA_span: 9
+  window_size step_width  Mean_EER median_nu median_gamma
+0        1500        750  0.029912  0.018449     0.000877
+0        1750        875  0.036911  0.008255     0.000429
+0        2000       1000  0.034803  0.018449     0.000429
+----------------------Training results for cv_fold_idx: 1----------------------
+EMA_span: 9
+  window_size step_width  Mean_EER median_nu median_gamma
+0        1500        750  0.041988  0.020488     0.000244
+0        1750        875  0.045011  0.005197     0.000429
+0        2000       1000     0.044  0.007236     0.000337
+----------------------Training results for cv_fold_idx: 2----------------------
+EMA_span: 9
+  window_size step_width  Mean_EER median_nu median_gamma
+0        1500        750  0.024345  0.022527     0.000429
+0        1750        875   0.02301  0.020488      0.02223
+0        2000       1000  0.023406  0.008255     0.004095
+----------------------Training results for cv_fold_idx: 0----------------------
+EMA_span: 9
+  window_size step_width  Mean_EER median_nu median_gamma
+0         125         62  0.200405   0.03272     0.212095
+0         250        125  0.127101  0.042914     0.372759
+0         500        250  0.077451  0.020488     0.120679
+0         750        375  0.061837   0.03272     0.008372
+0        1000        500  0.049474   0.03272     0.000244
+0        1250        625  0.046225  0.031701     0.000429
+0        1500        750  0.029912  0.018449     0.000877
+0        1750        875  0.036911  0.008255     0.000429
+0        2000       1000  0.034803  0.018449     0.000429
+----------------------Training results for cv_fold_idx: 1----------------------
+EMA_span: 9
+  window_size step_width  Mean_EER median_nu median_gamma
+0         125         62  0.193409  0.030682     0.372759
+0         250        125  0.121948  0.036798     0.655129
+0         500        250  0.071798  0.030682     0.372759
+0         750        375  0.068225  0.030682     0.004095
+0        1000        500   0.05751  0.020488     0.004095
+0        1250        625  0.049021  0.023546     0.000337
+0        1500        750  0.041988  0.020488     0.000244
+0        1750        875  0.045011  0.005197     0.000429
+0        2000       1000     0.044  0.007236     0.000337
+----------------------Training results for cv_fold_idx: 2----------------------
+EMA_span: 9
+  window_size step_width  Mean_EER median_nu median_gamma
+0         125         62  0.169426  0.020488     0.120679
+0         250        125  0.110216   0.03272     0.068665
+0         500        250  0.064627  0.042914     0.212095
+0         750        375  0.044349  0.036798     0.000429
+0        1000        500  0.036022  0.022527     0.004095
+0        1250        625  0.032109  0.036798     0.000244
+0        1500        750  0.024345  0.022527     0.000429
+0        1750        875   0.02301  0.020488      0.02223
+0        2000       1000  0.023406  0.008255     0.004095

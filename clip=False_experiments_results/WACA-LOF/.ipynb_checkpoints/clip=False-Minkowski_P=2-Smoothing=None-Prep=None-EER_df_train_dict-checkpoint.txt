@@ -1,0 +1,15 @@
+
+----------------------------------------2023/07/22-08:06:24----------------------------------------
+
+----------------------------------------clip=False_experiments_results/WACA-LOF/clip=False-Minkowski_P=2-Smoothing=None-Prep=None-EER_df_train_dict.txt----------------------------------------
+
+----------------------Training results for cv_fold_idx: 0----------------------
+
+Test_dict_key: -99999
+  window_size step_width  Mean_EER median_n_neighbors median_contamination
+0        2000       1000  0.037566                 11             0.049031
+----------------------Training results for cv_fold_idx: 1----------------------
+
+Test_dict_key: -99999
+  window_size step_width  Mean_EER median_n_neighbors median_contamination
+0        2000       1000  0.048355                 11             0.049031

@@ -1,0 +1,20 @@
+
+----------------------------------------2023/07/22-23:43:47----------------------------------------
+
+----------------------------------------clip=False_experiments_results/WACA-kNN/tmp_test.txt----------------------------------------
+
+----------------------Testing results for cv_fold_idx: 0----------------------
+
+Test_dict_key: -99999
+  window_size step_width Mean_EER best_n_neighbors Gini_coef
+0        2000       1000     0.03               18  0.896296
+----------------------Testing results for cv_fold_idx: 1----------------------
+
+Test_dict_key: -99999
+  window_size step_width  Mean_EER best_n_neighbors Gini_coef
+0        2000       1000  0.004722                4  0.937908
+----------------------Testing results for cv_fold_idx: 2----------------------
+
+Test_dict_key: -99999
+  window_size step_width  Mean_EER best_n_neighbors Gini_coef
+0        2000       1000  0.084722                1  0.793916
