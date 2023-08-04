@@ -1,0 +1,29 @@
+
+----------------------------------------2023-08-04-00:42:38----------------------------------------
+
+----------------------------------------clip=False_experiments_results/SCNN-LOF/clip=False-Smoothing=Butter+SMA-Prep=Realworld-per_unknown_window-EER_df_test_dict.txt----------------------------------------
+
+----------------------Testing results for cv_fold_idx: 0----------------------
+scnn_archi_name, cut_off_freq, SMA_winsize: ('SCNN_3_1_conv_1_dense_arg_dict_default', (33, 20))
+  window_size step_width  Mean_EER median_n_neighbors median_contamination Gini_coef
+0         125         62  0.117458                 15             0.045972  0.691694
+0         250        125  0.075981                 15             0.048011  0.827145
+0         500        250   0.05656                 12             0.049031  0.878225
+0         750        375  0.044747                 12             0.049031  0.894733
+0        1000        500  0.051762                 11             0.049031  0.879116
+----------------------Testing results for cv_fold_idx: 0----------------------
+scnn_archi_name, cut_off_freq, SMA_winsize: ('SCNN_3_2_conv_1_dense_arg_dict_default', (33, 20))
+  window_size step_width  Mean_EER median_n_neighbors median_contamination Gini_coef
+0         125         62   0.11065                 15             0.044953  0.712465
+0         250        125  0.077611                 14             0.049031  0.806434
+0         500        250  0.064123                 12             0.055147   0.86386
+0         750        375  0.051717                 11             0.049031  0.890625
+0        1000        500   0.04607                 12             0.051069  0.905229
+----------------------Testing results for cv_fold_idx: 0----------------------
+scnn_archi_name, cut_off_freq, SMA_winsize: ('SCNN_1_3_conv_1_dense_arg_dict_default', (33, 20))
+  window_size step_width  Mean_EER median_n_neighbors median_contamination Gini_coef
+0         125         62  0.109017                 15             0.049031  0.705612
+0         250        125  0.080073                 12             0.049031  0.806744
+0         500        250  0.061446                 12             0.049031   0.87831
+0         750        375  0.087273                 11             0.042914  0.869444
+0        1000        500  0.045664                 12             0.044953  0.884108

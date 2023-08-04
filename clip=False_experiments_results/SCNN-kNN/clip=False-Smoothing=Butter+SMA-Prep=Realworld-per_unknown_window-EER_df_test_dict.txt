@@ -1,0 +1,101 @@
+
+----------------------------------------2023-08-03-17:56:14----------------------------------------
+
+----------------------------------------clip=False_experiments_results/SCNN-kNN/clip=False-Smoothing=Butter+SMA-Prep=Realworld-per_unknown_window-EER_df_test_dict.txt----------------------------------------
+
+----------------------Testing results for cv_fold_idx: 0----------------------
+scnn_archi_name, cut_off_freq, SMA_winsize: ('SCNN_3_1_conv_1_dense_arg_dict_default', (33, 20))
+  window_size step_width  Mean_EER best_n_neighbors Gini_coef
+0         125         62  0.113551               18  0.701032
+0         250        125  0.075516               17   0.81952
+0         500        250  0.051205                7  0.879346
+0         750        375  0.042727               10  0.891437
+0        1000        500  0.051084                5  0.863454
+----------------------Testing results for cv_fold_idx: 0----------------------
+scnn_archi_name, cut_off_freq, SMA_winsize: ('SCNN_3_2_conv_1_dense_arg_dict_default', (33, 20))
+  window_size step_width  Mean_EER best_n_neighbors Gini_coef
+0         125         62  0.102275               19  0.725048
+0         250        125  0.073852                8  0.809439
+0         500        250  0.059371               11  0.862245
+0         750        375  0.054747               11  0.895039
+0        1000        500  0.047019                8  0.902049
+----------------------Testing results for cv_fold_idx: 0----------------------
+scnn_archi_name, cut_off_freq, SMA_winsize: ('SCNN_1_3_conv_1_dense_arg_dict_default', (33, 20))
+  window_size step_width  Mean_EER best_n_neighbors Gini_coef
+0         125         62  0.103907               17  0.716084
+0         250        125  0.079674               10  0.803382
+0         500        250  0.058434               10  0.874672
+0         750        375  0.082626                8  0.872317
+0        1000        500   0.04336                3    0.8925
+----------------------Testing results for cv_fold_idx: 0----------------------
+scnn_archi_name, cut_off_freq, SMA_winsize: ('SCNN_3_123_conv_1_dense_arg_dict_default', (33, 20))
+  window_size step_width  Mean_EER best_n_neighbors Gini_coef
+0         125         62  0.116535               19   0.69497
+0         250        125  0.072921               15  0.828883
+0         500        250  0.062918                7   0.84669
+0         750        375  0.041515                5  0.896377
+0        1000        500  0.034011                5  0.911155
+----------------------Testing results for cv_fold_idx: 1----------------------
+scnn_archi_name, cut_off_freq, SMA_winsize: ('SCNN_3_1_conv_1_dense_arg_dict_default', (33, 20))
+  window_size step_width  Mean_EER best_n_neighbors Gini_coef
+0         125         62  0.134998               14  0.645075
+0         250        125  0.080971               16  0.777139
+0         500        250  0.052008                9  0.873259
+0         750        375  0.051414                6  0.885025
+0        1000        500  0.044986                4  0.911446
+----------------------Testing results for cv_fold_idx: 1----------------------
+scnn_archi_name, cut_off_freq, SMA_winsize: ('SCNN_3_2_conv_1_dense_arg_dict_default', (33, 20))
+  window_size step_width  Mean_EER best_n_neighbors Gini_coef
+0         125         62  0.130844                8  0.604666
+0         250        125  0.073719                8  0.750953
+0         500        250  0.062517               14  0.851868
+0         750        375  0.058081               16  0.882918
+0        1000        500  0.045664                5  0.898088
+----------------------Testing results for cv_fold_idx: 1----------------------
+scnn_archi_name, cut_off_freq, SMA_winsize: ('SCNN_1_3_conv_1_dense_arg_dict_default', (33, 20))
+  window_size step_width  Mean_EER best_n_neighbors Gini_coef
+0         125         62   0.12181               19  0.653586
+0         250        125  0.084564               18  0.777769
+0         500        250  0.062249               16  0.854289
+0         750        375  0.077475                2  0.829103
+0        1000        500  0.039702               10   0.89909
+----------------------Testing results for cv_fold_idx: 1----------------------
+scnn_archi_name, cut_off_freq, SMA_winsize: ('SCNN_3_123_conv_1_dense_arg_dict_default', (33, 20))
+  window_size step_width  Mean_EER best_n_neighbors Gini_coef
+0         125         62    0.1273               19  0.655866
+0         250        125  0.083333               16  0.757467
+0         500        250  0.054485               19  0.876112
+0         750        375  0.058384               11  0.885967
+0        1000        500  0.053523                3  0.906357
+----------------------Testing results for cv_fold_idx: 2----------------------
+scnn_archi_name, cut_off_freq, SMA_winsize: ('SCNN_3_1_conv_1_dense_arg_dict_default', (33, 20))
+  window_size step_width  Mean_EER best_n_neighbors Gini_coef
+0         125         62  0.190933                4  0.482337
+0         250        125  0.101397               18  0.706963
+0         500        250  0.091633               16  0.793174
+0         750        375  0.065657               18  0.843214
+0        1000        500  0.065583                6  0.860055
+----------------------Testing results for cv_fold_idx: 2----------------------
+scnn_archi_name, cut_off_freq, SMA_winsize: ('SCNN_3_2_conv_1_dense_arg_dict_default', (33, 20))
+  window_size step_width  Mean_EER best_n_neighbors Gini_coef
+0         125         62  0.179954                4   0.48693
+0         250        125  0.118696                4  0.687357
+0         500        250  0.085944               16  0.790672
+0         750        375  0.077172                4  0.829465
+0        1000        500   0.05813                7  0.869334
+----------------------Testing results for cv_fold_idx: 2----------------------
+scnn_archi_name, cut_off_freq, SMA_winsize: ('SCNN_1_3_conv_1_dense_arg_dict_default', (33, 20))
+  window_size step_width  Mean_EER best_n_neighbors Gini_coef
+0         125         62  0.183086               19  0.514319
+0         250        125    0.1168                7  0.677695
+0         500        250  0.105288                8  0.743498
+0         750        375  0.102727               12  0.806675
+0        1000        500  0.060027               14  0.876975
+----------------------Testing results for cv_fold_idx: 2----------------------
+scnn_archi_name, cut_off_freq, SMA_winsize: ('SCNN_3_123_conv_1_dense_arg_dict_default', (33, 20))
+  window_size step_width  Mean_EER best_n_neighbors Gini_coef
+0         125         62  0.194725                5  0.477072
+0         250        125  0.099168                7  0.733866
+0         500        250  0.093507               19  0.761386
+0         750        375   0.07404               17  0.828301
+0        1000        500  0.062466               11  0.844806

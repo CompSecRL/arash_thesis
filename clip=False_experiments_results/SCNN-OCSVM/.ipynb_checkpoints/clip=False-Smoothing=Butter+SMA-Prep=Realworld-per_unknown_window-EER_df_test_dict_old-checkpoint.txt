@@ -1,0 +1,13 @@
+
+----------------------------------------2023-08-02-19:54:27----------------------------------------
+
+----------------------------------------clip=False_experiments_results/SCNN-OCSVM/clip=False-Smoothing=Butter+SMA-Prep=Realworld-per_unknown_window-EER_df_test_dict.txt----------------------------------------
+
+----------------------Testing results for cv_fold_idx: 0----------------------
+scnn_archi_name, cut_off_freq, SMA_winsize: ('SCNN_3_1_conv_1_dense_arg_dict_default', (33, 20))
+  window_size step_width Mean_EER median_nu median_gamma Gini_coef
+0        1000        500  0.05813  0.046992     0.003212  0.854934
+----------------------Testing results for cv_fold_idx: 0----------------------
+scnn_archi_name, cut_off_freq, SMA_winsize: ('SCNN_3_2_conv_1_dense_arg_dict_default', (33, 20))
+  window_size step_width  Mean_EER median_nu median_gamma Gini_coef
+0        1000        500  0.043198   0.05005      0.00271  0.902482

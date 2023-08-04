@@ -1,0 +1,5 @@
+
+----------------------Training results for cv_fold_idx: 0----------------------
+scnn_archi_name, cut_off_freq, EMA_span: ('SCNN_3_1_conv_1_dense_arg_dict_default', (33, 20))
+  window_size step_width  Mean_EER median_nu median_gamma
+0        1000        500  0.051688  0.043934     0.003212

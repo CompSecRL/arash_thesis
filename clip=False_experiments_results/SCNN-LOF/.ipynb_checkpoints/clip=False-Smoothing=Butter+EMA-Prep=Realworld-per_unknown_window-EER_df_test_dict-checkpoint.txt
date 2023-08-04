@@ -1,0 +1,13 @@
+
+----------------------------------------2023-08-03-18:57:19----------------------------------------
+
+----------------------------------------clip=False_experiments_results/SCNN-LOF/clip=False-Smoothing=Butter+EMA-Prep=Realworld-per_unknown_window-EER_df_test_dict.txt----------------------------------------
+
+----------------------Testing results for cv_fold_idx: 0----------------------
+scnn_archi_name, cut_off_freq, EMA_span: ('SCNN_3_1_conv_1_dense_arg_dict_default', (33, 20))
+  window_size step_width  Mean_EER median_n_neighbors median_contamination Gini_coef
+0         125         62  0.128948                 15             0.049031  0.653553
+0         250        125  0.080439                 15             0.049031  0.781169
+0         500        250  0.068005                 12             0.048011  0.859427
+0         750        375   0.05101                  9             0.049031  0.891331
+0        1000        500  0.037534                 11             0.046992  0.906739

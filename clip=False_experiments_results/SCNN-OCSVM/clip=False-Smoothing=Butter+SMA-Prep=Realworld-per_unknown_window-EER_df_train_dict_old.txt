@@ -1,0 +1,101 @@
+
+----------------------------------------2023-08-02-20:09:45----------------------------------------
+
+----------------------------------------clip=False_experiments_results/SCNN-OCSVM/clip=False-Smoothing=Butter+SMA-Prep=Realworld-per_unknown_window-EER_df_train_dict.txt----------------------------------------
+
+----------------------Training results for cv_fold_idx: 0----------------------
+scnn_archi_name, cut_off_freq, SMA_winsize: ('SCNN_3_1_conv_1_dense_arg_dict_default', (33, 20))
+  window_size step_width  Mean_EER median_nu median_gamma
+0         125         62  0.147416  0.029662     0.004095
+0         250        125  0.095586   0.03374     0.094672
+0         500        250  0.071893   0.03272     0.000244
+0         750        375  0.052383  0.045972      0.00104
+0        1000        500  0.066727  0.046992     0.003212
+----------------------Training results for cv_fold_idx: 0----------------------
+scnn_archi_name, cut_off_freq, SMA_winsize: ('SCNN_3_2_conv_1_dense_arg_dict_default', (33, 20))
+  window_size step_width  Mean_EER median_nu median_gamma
+0         125         62  0.146071   0.03272     0.068665
+0         250        125  0.120167   0.03374     0.002262
+0         500        250  0.083462  0.036798     0.017439
+0         750        375  0.069067  0.043934     0.004095
+0        1000        500  0.059223   0.05005      0.00271
+----------------------Training results for cv_fold_idx: 0----------------------
+scnn_archi_name, cut_off_freq, SMA_winsize: ('SCNN_1_3_conv_1_dense_arg_dict_default', (33, 20))
+  window_size step_width  Mean_EER median_nu median_gamma
+0         125         62  0.170028  0.024565     0.004095
+0         250        125  0.132847   0.03272     0.000337
+0         500        250  0.089163  0.026604     0.000244
+0         750        375  0.078469  0.040876      0.00233
+0        1000        500  0.057343  0.038837     0.014713
+----------------------Training results for cv_fold_idx: 0----------------------
+scnn_archi_name, cut_off_freq, SMA_winsize: ('SCNN_3_123_conv_1_dense_arg_dict_default', (33, 20))
+  window_size step_width  Mean_EER median_nu median_gamma
+0         125         62   0.14293   0.03374     0.094672
+0         250        125  0.095288  0.020488     0.000429
+0         500        250  0.072676  0.028643     0.000079
+0         750        375  0.052789   0.05005     0.001326
+0        1000        500  0.046643  0.041895     0.001326
+----------------------Training results for cv_fold_idx: 1----------------------
+scnn_archi_name, cut_off_freq, SMA_winsize: ('SCNN_3_1_conv_1_dense_arg_dict_default', (33, 20))
+  window_size step_width  Mean_EER median_nu median_gamma
+0         125         62  0.136997  0.026604      0.00104
+0         250        125  0.082244  0.027623     0.002425
+0         500        250  0.074042   0.03272     0.000079
+0         750        375  0.061789  0.044953     0.003212
+0        1000        500  0.060481  0.043934     0.000429
+----------------------Training results for cv_fold_idx: 1----------------------
+scnn_archi_name, cut_off_freq, SMA_winsize: ('SCNN_3_2_conv_1_dense_arg_dict_default', (33, 20))
+  window_size step_width  Mean_EER median_nu median_gamma
+0         125         62  0.149233   0.03374     0.120679
+0         250        125  0.099924  0.043934     0.000429
+0         500        250   0.07162   0.05005     0.000429
+0         750        375  0.070943  0.036798     0.000429
+0        1000        500   0.06518   0.03374      0.00138
+----------------------Training results for cv_fold_idx: 1----------------------
+scnn_archi_name, cut_off_freq, SMA_winsize: ('SCNN_1_3_conv_1_dense_arg_dict_default', (33, 20))
+  window_size step_width  Mean_EER median_nu median_gamma
+0         125         62  0.146082   0.03272     0.008372
+0         250        125    0.1135  0.029662     0.000079
+0         500        250  0.083966  0.029662     0.001828
+0         750        375  0.077335  0.035779     1.151395
+0        1000        500  0.061842  0.024565     0.000079
+----------------------Training results for cv_fold_idx: 1----------------------
+scnn_archi_name, cut_off_freq, SMA_winsize: ('SCNN_3_123_conv_1_dense_arg_dict_default', (33, 20))
+  window_size step_width  Mean_EER median_nu median_gamma
+0         125         62  0.141488  0.024565     0.000139
+0         250        125  0.092888  0.028643     0.000017
+0         500        250  0.047055  0.038837     0.000079
+0         750        375  0.073469  0.037817     0.008372
+0        1000        500  0.064634  0.037817     0.000877
+----------------------Training results for cv_fold_idx: 2----------------------
+scnn_archi_name, cut_off_freq, SMA_winsize: ('SCNN_3_1_conv_1_dense_arg_dict_default', (33, 20))
+  window_size step_width  Mean_EER median_nu median_gamma
+0         125         62  0.133739  0.036798     1.151395
+0         250        125  0.106128  0.026604     0.000754
+0         500        250  0.090425  0.036798     0.001326
+0         750        375  0.062238  0.036798     0.004095
+0        1000        500  0.061981  0.024565     0.001326
+----------------------Training results for cv_fold_idx: 2----------------------
+scnn_archi_name, cut_off_freq, SMA_winsize: ('SCNN_3_2_conv_1_dense_arg_dict_default', (33, 20))
+  window_size step_width  Mean_EER median_nu median_gamma
+0         125         62  0.126764   0.03272     1.151395
+0         250        125   0.08551  0.057186      2.02359
+0         500        250  0.086726   0.03272     0.001326
+0         750        375  0.061451  0.040876     0.004095
+0        1000        500  0.061047  0.026604     0.000079
+----------------------Training results for cv_fold_idx: 2----------------------
+scnn_archi_name, cut_off_freq, SMA_winsize: ('SCNN_1_3_conv_1_dense_arg_dict_default', (33, 20))
+  window_size step_width  Mean_EER median_nu median_gamma
+0         125         62  0.140255   0.01641     0.655129
+0         250        125   0.09235  0.036798     1.151395
+0         500        250  0.088892   0.03272     1.151395
+0         750        375  0.083328   0.03272     0.120679
+0        1000        500  0.055206  0.020488     0.000079
+----------------------Training results for cv_fold_idx: 2----------------------
+scnn_archi_name, cut_off_freq, SMA_winsize: ('SCNN_3_123_conv_1_dense_arg_dict_default', (33, 20))
+  window_size step_width  Mean_EER median_nu median_gamma
+0         125         62  0.134455   0.01641     0.655129
+0         250        125  0.103225  0.022527     0.068665
+0         500        250  0.089262  0.034759     0.120679
+0         750        375  0.051239  0.040876     0.007197
+0        1000        500  0.061796  0.042914     0.000429

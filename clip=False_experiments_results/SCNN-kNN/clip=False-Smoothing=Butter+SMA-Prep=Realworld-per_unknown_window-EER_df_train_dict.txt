@@ -1,0 +1,101 @@
+
+----------------------------------------2023-08-03-17:56:14----------------------------------------
+
+----------------------------------------clip=False_experiments_results/SCNN-kNN/clip=False-Smoothing=Butter+SMA-Prep=Realworld-per_unknown_window-EER_df_train_dict.txt----------------------------------------
+
+----------------------Training results for cv_fold_idx: 0----------------------
+scnn_archi_name, cut_off_freq, SMA_winsize: ('SCNN_3_1_conv_1_dense_arg_dict_default', (33, 20))
+  window_size step_width  Mean_EER best_n_neighbors
+0         125         62  0.141227               18
+0         250        125  0.086109               17
+0         500        250  0.054502                7
+0         750        375  0.042464               10
+0        1000        500  0.045379                5
+----------------------Training results for cv_fold_idx: 0----------------------
+scnn_archi_name, cut_off_freq, SMA_winsize: ('SCNN_3_2_conv_1_dense_arg_dict_default', (33, 20))
+  window_size step_width  Mean_EER best_n_neighbors
+0         125         62  0.137303               19
+0         250        125  0.085101                8
+0         500        250  0.066107               11
+0         750        375   0.05866               11
+0        1000        500  0.047433                8
+----------------------Training results for cv_fold_idx: 0----------------------
+scnn_archi_name, cut_off_freq, SMA_winsize: ('SCNN_1_3_conv_1_dense_arg_dict_default', (33, 20))
+  window_size step_width  Mean_EER best_n_neighbors
+0         125         62   0.14599               17
+0         250        125  0.088654               10
+0         500        250  0.062841               10
+0         750        375  0.053349                8
+0        1000        500  0.043549                3
+----------------------Training results for cv_fold_idx: 0----------------------
+scnn_archi_name, cut_off_freq, SMA_winsize: ('SCNN_3_123_conv_1_dense_arg_dict_default', (33, 20))
+  window_size step_width  Mean_EER best_n_neighbors
+0         125         62  0.139645               19
+0         250        125  0.088134               15
+0         500        250   0.05512                7
+0         750        375  0.044617                5
+0        1000        500  0.037837                5
+----------------------Training results for cv_fold_idx: 1----------------------
+scnn_archi_name, cut_off_freq, SMA_winsize: ('SCNN_3_1_conv_1_dense_arg_dict_default', (33, 20))
+  window_size step_width  Mean_EER best_n_neighbors
+0         125         62  0.136206               14
+0         250        125  0.083478               16
+0         500        250  0.054312                9
+0         750        375  0.048158                6
+0        1000        500  0.041688                4
+----------------------Training results for cv_fold_idx: 1----------------------
+scnn_archi_name, cut_off_freq, SMA_winsize: ('SCNN_3_2_conv_1_dense_arg_dict_default', (33, 20))
+  window_size step_width  Mean_EER best_n_neighbors
+0         125         62   0.15228                8
+0         250        125  0.089797                8
+0         500        250  0.064394               14
+0         750        375  0.051411               16
+0        1000        500  0.049358                5
+----------------------Training results for cv_fold_idx: 1----------------------
+scnn_archi_name, cut_off_freq, SMA_winsize: ('SCNN_1_3_conv_1_dense_arg_dict_default', (33, 20))
+  window_size step_width  Mean_EER best_n_neighbors
+0         125         62  0.128272               19
+0         250        125  0.085377               18
+0         500        250  0.060082               16
+0         750        375  0.069545                2
+0        1000        500  0.044223               10
+----------------------Training results for cv_fold_idx: 1----------------------
+scnn_archi_name, cut_off_freq, SMA_winsize: ('SCNN_3_123_conv_1_dense_arg_dict_default', (33, 20))
+  window_size step_width  Mean_EER best_n_neighbors
+0         125         62  0.130739               19
+0         250        125   0.09101               16
+0         500        250  0.051538               19
+0         750        375  0.046722               11
+0        1000        500  0.039634                3
+----------------------Training results for cv_fold_idx: 2----------------------
+scnn_archi_name, cut_off_freq, SMA_winsize: ('SCNN_3_1_conv_1_dense_arg_dict_default', (33, 20))
+  window_size step_width  Mean_EER best_n_neighbors
+0         125         62  0.134746                4
+0         250        125   0.09221               18
+0         500        250   0.06815               16
+0         750        375  0.053934               18
+0        1000        500  0.047069                6
+----------------------Training results for cv_fold_idx: 2----------------------
+scnn_archi_name, cut_off_freq, SMA_winsize: ('SCNN_3_2_conv_1_dense_arg_dict_default', (33, 20))
+  window_size step_width  Mean_EER best_n_neighbors
+0         125         62  0.127809                4
+0         250        125  0.090232                4
+0         500        250  0.074649               16
+0         750        375   0.05218                4
+0        1000        500  0.045215                7
+----------------------Training results for cv_fold_idx: 2----------------------
+scnn_archi_name, cut_off_freq, SMA_winsize: ('SCNN_1_3_conv_1_dense_arg_dict_default', (33, 20))
+  window_size step_width  Mean_EER best_n_neighbors
+0         125         62  0.134125               19
+0         250        125  0.087439                7
+0         500        250  0.080762                8
+0         750        375  0.062041               12
+0        1000        500  0.040829               14
+----------------------Training results for cv_fold_idx: 2----------------------
+scnn_archi_name, cut_off_freq, SMA_winsize: ('SCNN_3_123_conv_1_dense_arg_dict_default', (33, 20))
+  window_size step_width  Mean_EER best_n_neighbors
+0         125         62  0.135319                5
+0         250        125  0.086476                7
+0         500        250  0.072131               19
+0         750        375  0.044444               17
+0        1000        500  0.048139               11

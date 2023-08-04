@@ -1,0 +1,37 @@
+
+----------------------------------------2023-08-03-05:13:13----------------------------------------
+
+----------------------------------------clip=False_experiments_results/SCNN-IF/clip=False-Smoothing=Butterworth-Prep=Realworld-per_unknown_window-EER_df_test_dict.txt----------------------------------------
+
+----------------------Testing results for cv_fold_idx: 0----------------------
+scnn_archi_name, cut_off_freq: ('SCNN_3_1_conv_1_dense_arg_dict_default', 33)
+  window_size step_width  Mean_EER median_n_estimators median_max_samples median_contamination median_max_features Gini_coef
+0         125         62  0.111022                 100                0.8             0.046992                 0.6  0.678295
+0         250        125  0.085908                 100                0.7             0.049031                 0.5  0.719321
+0         500        250  0.078353                 100                0.6             0.049031                 0.5  0.724105
+0         750        375  0.062323                 100                0.6             0.051069                 0.6  0.745424
+0        1000        500  0.065447                 100                0.8             0.051069                 0.6  0.728102
+----------------------Testing results for cv_fold_idx: 0----------------------
+scnn_archi_name, cut_off_freq: ('SCNN_3_2_conv_1_dense_arg_dict_default', 33)
+  window_size step_width  Mean_EER median_n_estimators median_max_samples median_contamination median_max_features Gini_coef
+0         125         62  0.114636                 100                0.9             0.049031                 0.7  0.636626
+0         250        125  0.104258                 100                0.7             0.055147                 0.6  0.664661
+0         500        250  0.073253                 100                0.6             0.051069                 0.5  0.683837
+0         750        375  0.055535                 100                0.6             0.051069                 0.5  0.708423
+0        1000        500   0.06187                 100                0.6             0.049031                 0.5  0.761352
+----------------------Testing results for cv_fold_idx: 0----------------------
+scnn_archi_name, cut_off_freq: ('SCNN_1_3_conv_1_dense_arg_dict_default', 33)
+  window_size step_width  Mean_EER median_n_estimators median_max_samples median_contamination median_max_features Gini_coef
+0         125         62  0.117979                  50                0.8             0.053108                 0.4  0.672035
+0         250        125  0.079215                 100                0.9             0.046992                 0.6  0.699248
+0         500        250  0.067577                 100                0.6             0.051069                 0.5  0.700867
+0         750        375  0.081657                 100                0.7             0.053108                 0.5  0.636176
+0        1000        500  0.068076                 100                0.6             0.051069                 0.5  0.731334
+----------------------Testing results for cv_fold_idx: 0----------------------
+scnn_archi_name, cut_off_freq: ('SCNN_3_123_conv_1_dense_arg_dict_default', 33)
+  window_size step_width  Mean_EER median_n_estimators median_max_samples median_contamination median_max_features Gini_coef
+0         125         62  0.104059                 100                0.8             0.049031                 0.6   0.70088
+0         250        125  0.079993                 100                0.7             0.049031                 0.5  0.725355
+0         500        250  0.066386                 100                0.6             0.051069                 0.5   0.74168
+0         750        375   0.06697                 150                0.7             0.051069                 0.5  0.675224
+0        1000        500  0.076016                 100                0.6             0.053108                 0.5  0.670418

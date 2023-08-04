@@ -1,0 +1,29 @@
+
+----------------------------------------2023-08-03-17:56:14----------------------------------------
+
+----------------------------------------clip=False_experiments_results/SCNN-kNN/clip=False-Smoothing=Butter+SMA-Prep=Realworld-per_unknown_window-EER_df_test_dict.txt----------------------------------------
+
+----------------------Testing results for cv_fold_idx: 0----------------------
+scnn_archi_name, cut_off_freq, SMA_winsize: ('SCNN_3_1_conv_1_dense_arg_dict_default', (33, 20))
+  window_size step_width  Mean_EER best_n_neighbors Gini_coef
+0         125         62  0.113551               18  0.701032
+0         250        125  0.075516               17   0.81952
+0         500        250  0.051205                7  0.879346
+0         750        375  0.042727               10  0.891437
+0        1000        500  0.051084                5  0.863454
+----------------------Testing results for cv_fold_idx: 0----------------------
+scnn_archi_name, cut_off_freq, SMA_winsize: ('SCNN_3_2_conv_1_dense_arg_dict_default', (33, 20))
+  window_size step_width  Mean_EER best_n_neighbors Gini_coef
+0         125         62  0.102275               19  0.725048
+0         250        125  0.073852                8  0.809439
+0         500        250  0.059371               11  0.862245
+0         750        375  0.054747               11  0.895039
+0        1000        500  0.047019                8  0.902049
+----------------------Testing results for cv_fold_idx: 0----------------------
+scnn_archi_name, cut_off_freq, SMA_winsize: ('SCNN_1_3_conv_1_dense_arg_dict_default', (33, 20))
+  window_size step_width  Mean_EER best_n_neighbors Gini_coef
+0         125         62  0.103907               17  0.716084
+0         250        125  0.079674               10  0.803382
+0         500        250  0.058434               10  0.874672
+0         750        375  0.082626                8  0.872317
+0        1000        500   0.04336                3    0.8925
