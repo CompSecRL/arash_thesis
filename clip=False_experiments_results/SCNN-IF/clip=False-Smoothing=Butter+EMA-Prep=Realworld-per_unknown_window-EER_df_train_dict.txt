@@ -11,3 +11,91 @@ scnn_archi_name, cut_off_freq, EMA_span: ('SCNN_3_1_conv_1_dense_arg_dict_defaul
 0         500        250  0.083037                 125                0.6             0.049031                 0.5
 0         750        375  0.061522                 100                0.7             0.051069                 0.6
 0        1000        500  0.078601                 150                0.6             0.051069                 0.5
+----------------------Training results for cv_fold_idx: 0----------------------
+scnn_archi_name, cut_off_freq, EMA_span: ('SCNN_3_2_conv_1_dense_arg_dict_default', (33, 20))
+  window_size step_width  Mean_EER median_n_estimators median_max_samples median_contamination median_max_features
+0         125         62  0.132901                 100                0.8             0.053108                 0.5
+0         250        125   0.09063                 100                0.6             0.051069                 0.5
+0         500        250  0.088691                 100                0.6             0.051069                 0.5
+0         750        375  0.098751                 100                0.6             0.051069                 0.5
+0        1000        500  0.087279                 150                0.6             0.049031                0.55
+----------------------Training results for cv_fold_idx: 0----------------------
+scnn_archi_name, cut_off_freq, EMA_span: ('SCNN_1_3_conv_1_dense_arg_dict_default', (33, 20))
+  window_size step_width  Mean_EER median_n_estimators median_max_samples median_contamination median_max_features
+0         125         62  0.134543                 100                0.7             0.054128                 0.5
+0         250        125  0.092361                 100                0.6             0.049031                 0.5
+0         500        250  0.084163                 100                0.6             0.051069                 0.5
+0         750        375      0.09                 100                0.7             0.051069                 0.6
+0        1000        500   0.13534                 100                0.7             0.049031                 0.6
+----------------------Training results for cv_fold_idx: 0----------------------
+scnn_archi_name, cut_off_freq, EMA_span: ('SCNN_3_123_conv_1_dense_arg_dict_default', (33, 20))
+  window_size step_width  Mean_EER median_n_estimators median_max_samples median_contamination median_max_features
+0         125         62  0.143589                 100                0.7             0.059224                 0.5
+0         250        125  0.094362                 100                0.6             0.051069                 0.5
+0         500        250  0.074959                 100                0.7             0.049031                 0.5
+0         750        375  0.073254                 100                0.7             0.053108                 0.5
+0        1000        500  0.070276                 150                0.7             0.049031                 0.5
+----------------------Training results for cv_fold_idx: 1----------------------
+scnn_archi_name, cut_off_freq, EMA_span: ('SCNN_3_1_conv_1_dense_arg_dict_default', (33, 20))
+  window_size step_width  Mean_EER median_n_estimators median_max_samples median_contamination median_max_features
+0         125         62    0.1447                 100                0.7             0.044953                 0.6
+0         250        125  0.100734                 100                0.6              0.05005                 0.5
+0         500        250  0.080571                 100                0.5             0.051069                 0.5
+0         750        375   0.07244                 100                0.6             0.051069                 0.5
+0        1000        500   0.10018                 100                0.6             0.053108                 0.6
+----------------------Training results for cv_fold_idx: 1----------------------
+scnn_archi_name, cut_off_freq, EMA_span: ('SCNN_3_2_conv_1_dense_arg_dict_default', (33, 20))
+  window_size step_width  Mean_EER median_n_estimators median_max_samples median_contamination median_max_features
+0         125         62  0.138295                 100                0.8             0.046992                 0.4
+0         250        125  0.120708                 100                0.6             0.049031                 0.5
+0         500        250  0.086655                 100                0.5             0.051069                 0.5
+0         750        375  0.097234                 100                0.5             0.049031                 0.5
+0        1000        500  0.067959                 100                0.6              0.05005                 0.5
+----------------------Training results for cv_fold_idx: 1----------------------
+scnn_archi_name, cut_off_freq, EMA_span: ('SCNN_1_3_conv_1_dense_arg_dict_default', (33, 20))
+  window_size step_width  Mean_EER median_n_estimators median_max_samples median_contamination median_max_features
+0         125         62   0.13461                 100                0.6             0.055147                 0.5
+0         250        125  0.102762                 100                0.6             0.051069                 0.5
+0         500        250  0.111642                 100               0.55             0.051069                 0.5
+0         750        375  0.096947                 100                0.6             0.049031                 0.6
+0        1000        500  0.099961                 100                0.5              0.05005                 0.5
+----------------------Training results for cv_fold_idx: 1----------------------
+scnn_archi_name, cut_off_freq, EMA_span: ('SCNN_3_123_conv_1_dense_arg_dict_default', (33, 20))
+  window_size step_width  Mean_EER median_n_estimators median_max_samples median_contamination median_max_features
+0         125         62  0.137347                 100                0.8             0.049031                 0.5
+0         250        125  0.096325                 100                0.6             0.049031                 0.5
+0         500        250  0.083725                 100                0.5             0.049031                 0.5
+0         750        375  0.091115                 100                0.5             0.053108                 0.5
+0        1000        500  0.091175                 100                0.6             0.049031                 0.5
+----------------------Training results for cv_fold_idx: 2----------------------
+scnn_archi_name, cut_off_freq, EMA_span: ('SCNN_3_1_conv_1_dense_arg_dict_default', (33, 20))
+  window_size step_width  Mean_EER median_n_estimators median_max_samples median_contamination median_max_features
+0         125         62  0.144729                 100               0.65             0.053108                 0.5
+0         250        125  0.099737                 100                0.7             0.045972                0.45
+0         500        250  0.093877                 100                0.6             0.055147                 0.6
+0         750        375  0.111691                 100                0.5             0.049031                0.55
+0        1000        500  0.113094                 100                0.6             0.051069                 0.6
+----------------------Training results for cv_fold_idx: 2----------------------
+scnn_archi_name, cut_off_freq, EMA_span: ('SCNN_3_2_conv_1_dense_arg_dict_default', (33, 20))
+  window_size step_width  Mean_EER median_n_estimators median_max_samples median_contamination median_max_features
+0         125         62  0.140032                 100                0.7             0.051069                 0.5
+0         250        125  0.098456                 100                0.7             0.049031                 0.5
+0         500        250  0.101377                 100                0.7             0.055147                 0.6
+0         750        375  0.115008                 100                0.6             0.057186                 0.4
+0        1000        500  0.084246                 100                0.7             0.049031                 0.6
+----------------------Training results for cv_fold_idx: 2----------------------
+scnn_archi_name, cut_off_freq, EMA_span: ('SCNN_1_3_conv_1_dense_arg_dict_default', (33, 20))
+  window_size step_width  Mean_EER median_n_estimators median_max_samples median_contamination median_max_features
+0         125         62  0.132362                 100                0.8             0.046992                 0.6
+0         250        125  0.098018                 100                0.7             0.051069                0.55
+0         500        250  0.080096                 100                0.7             0.051069                 0.5
+0         750        375  0.085848                 100                0.8             0.049031                 0.5
+0        1000        500  0.099116                 100                0.8             0.059224                 0.6
+----------------------Training results for cv_fold_idx: 2----------------------
+scnn_archi_name, cut_off_freq, EMA_span: ('SCNN_3_123_conv_1_dense_arg_dict_default', (33, 20))
+  window_size step_width  Mean_EER median_n_estimators median_max_samples median_contamination median_max_features
+0         125         62  0.150435                 100                0.6             0.053108                 0.5
+0         250        125  0.093301                 100                0.7             0.046992                 0.6
+0         500        250  0.084545                 150                0.8             0.053108                 0.6
+0         750        375  0.105635                 100                0.7             0.049031                0.55
+0        1000        500  0.117544                 100                0.3             0.053108                0.55
